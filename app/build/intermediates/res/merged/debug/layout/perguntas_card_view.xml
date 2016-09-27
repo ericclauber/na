@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view_layout_perguntas_quiz"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="0dp"
+    android:layout_marginTop="1dp"
+    android:elevation="6dp"
+    card_view:cardBackgroundColor="#388E3C"
+    card_view:cardCornerRadius="4dp"
+    card_view:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp">
+
+        <TextView
+            android:id="@+id/text_view_id_perguntas_quiz"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Pergunta 1"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+        <!---->
+        <RadioGroup
+            android:id="@+id/card_view_radio_group"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="horizontal">-->
+
+            <RadioButton
+                android:id="@+id/card_view_radio_button_sim"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="false"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                android:text="@string/textView_sim_cardview"/>
+
+            <RadioButton
+                android:id="@+id/card_view_radio_button_as_vezes"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:checked="false"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                android:text="@string/textView_as_vezes_cardview"/>
+
+            <RadioButton
+                android:id="@+id/card_view_radio_button_nao"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="false"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                android:text="@string/textView_nao_cardview"/>
+            <!--</LinearLayout>-->
+        </RadioGroup>
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

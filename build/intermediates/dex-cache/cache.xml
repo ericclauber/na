@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-7.8.0_10d418e33a126dfa03e2813237abbfff8a0babb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_d8c07a15654118521af0cbf2f3514e6d3e4e0974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-7.8.0_b259eac7d31eba181e4358012a3ae1b488eabb2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-7.8.0_ed41d2bed6355b961766d124a022048d03cc3f8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="347627bdd38a01995e0205c12d116d1e327658d1">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_162b5ce770baf8a37699e6ce81909fc9848f9267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2dc14fb5abeb8b9a1176c1507f87e3c42cd72aa1">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/instant-run_0049ffb32e9437a95334844118ed90b05dfaefaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_8e3360fa6eeaf80d3edb2d3939f1f05ec3dde92c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.3.1/2c4076b466a0eb4d6ddf5721edd35cd1adc1f317/stetho-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2c4076b466a0eb4d6ddf5721edd35cd1adc1f317">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/stetho-1.3.1_b4976243d66d5ce8aaae67f4dc37e0160e1134d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_90c1907def5e98da6d01fa61a63c8f63a29c2296.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-7.8.0_ee6b6ddc7cdb928dcd229ac6e19e10cb9ee1758a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-7.8.0_6d2d695cf109e70f8b2a1d9a3a04398ff65a11a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-22.2.0_c3e66b28202c7021cab2ef8ea2e8d7d1e09cfbae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/4.48/afa06f539a4026c10b247386312aa67404b80a16/ormlite-android-4.48.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/ormlite-android-4.48_f4caafdcc2464a2d04ca7703ea299399bcbdca6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-7.8.0_88ff275488fb8620d1f849b92a741d88e0753ace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-7.8.0_b7577c1bcf8bde5f3de0427b001edfd8b72cf322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.8.0_a59e7c44e370f2ba9d467358349b763c8daf3e6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_a3addc6b991f522533a546a9db12b43ecd9b296d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-7.8.0_56a27c3747fbf65c5debe7244aedca7158335f99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.1_8248595b051651b04f39693c24451bc1ca6340df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_da20e6ad94034420ad8b0fb3e0539bab4791b5a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-7.8.0_2b9fa5a3b3f21b556aa4077920f89c3d79eac334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/commons-cli-1.2_ec89b6d750b3b67e684b9d956c24b7ed9b65292d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_e21e757e50f3ecde407e4f88e4199e2369ca2b42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_3e3c9e643ad8759021492c55a19c9cde33ad955e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-7.8.0_5ee852e743b560d4814e6e976ff4a8353def5401.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-7.8.0_cf1ce11f2d0db0fb7c400c67cc8f1756de506e77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-7.8.0_2069094c79a18e4122a229ff0a05bca83998f1b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appstate-7.8.0_00bd535559ddc95ef02c9fb071512a8bbb6ce3d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-7.8.0_34139e89c1c59d017c9c95d65cbb4430a5b5c6a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-7.8.0_058e72f738aa703d21ac7fb731494a90f51a573a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/4.48/e579bd2905d0399af5029aaaf9817d5fa0ca88a5/ormlite-core-4.48.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/ormlite-core-4.48_d51a0ea70070c5692e93ffcdb9023c3fec7b59b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.8.0_1a294c7babb8d7cd1ace1a1409c2f666da9eabe1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-7.8.0_6ce6d6d252ab52e4660653ffc08648f6fb3bf14f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_7d127e01e1cba775f6db56d6e3827cc15cf2cc66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_a5058ec232ba269bc884c359c8898ceffa0e857b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-7.8.0_d72834ffe9f41cc80fd82ab59a97e86af4ab51c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-7.8.0_60baa70b65c6dcda1b8bf0b3651e71169f86de75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/home/eric/AndroidStudioProjects/NA/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-7.8.0_9d65bcff6b38e862ba7dc92c4d757d1bd84a8960.jar" />
+    </item>
+
+</items>

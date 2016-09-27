@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Neuróticos Anônimos</string>
+    <string name="texto_splash_na">Neuróticos Anônimos</string>
+    <string name="texto_splash_interpresacao">Uma questão de interpretação!</string>
+    <string name="titulo_texto_quem_somos">Quem somos</string>
+    <string name="texto_quem_somos">Neuróticos Anônimos é uma Irmandade formada por homens e mulheres que compartilham suas experiências, fortaleza e esperança para resolverem seus problemas emocionais comuns e dessa forma se reabilitarem da doença mental e emocional. \n\nPara ser membro desta Irmandade basta considerar-se uma pessoa neurótica, ou seja, com perturbações emocionais, e ter o sincero desejo de sarar. \n\nEm N/A não se cobram taxas nem mensalidades. As despesas de seu funcionamento são pagas com o dinheiro proveniente das contribuições de seus membros. \n\nNeuróticos Anônimos não está ligada a nenhuma instituição religiosa ou política e não defende nem se opõe a nenhuma causa. Seu objetivo primordial é a transmissão de sua mensagem, através da recuperação de seus membros, aos que necessitam de ajuda para encontrar uma vida feliz, livres da doença mental e emocional. \n\nAlcoólicos Anônimos bondosamente concedeu permissão a N/A para usar seus Passos e seu Programa, como já tem feito em relação a outras associações de Anônimos. \n\nDesejamos expressar nossa gratidão a Deus e a Alcoólicos Anônimos por nos terem proporcionado os instrumentos necessários à nossa recuperação, os quais recebemos d’Ele por intermédio deles. \n\n** Nota: Na maioria dos Países de língua espanhola onde existem Grupos de N/A, a palavra empregada é Comunidade.</string>
+    <string name="texto_sou_neurotico">1- Você tem medo de estar sozinho, sair de casa, dirigir um carro ou fazer uma viagem fora de sua cidade? \n\n2- Você se sente diferente ou “deslocado” quando está com outras pessoas? \n\n3- Você freqüentemente negligencia seus afazeres, dorme muito, sente-se constantemente cansado ou sem energias? \n\n4- Você já tentou o suicídio ou pensou seriamente em cometê-lo? \n\n5- Você precisa de tranqüilizantes ou outras drogas (que alteram a mente) para atravessar o dia? \n\n6- Você assume mais responsabilidades do que pode? \n\n7- Tem uma atitude de tudo ou nada? \n\n8- Você vive tenso, incapaz de se relaxar e não consegue dormir? \n\n9- A tensão, a ansiedade e a preocupação afetam seu trabalho? \n\n10- Você sente que outras pessoas não o compreendem ou não compreendem os seus problemas? \n\n11- Você sente que as outras pessoas “estão lhe olhando” quando você trabalha ou quando está em público? \n\n12- Você acha que o seu relacionamento está em perigo? \n\n13- Você tem problemas sexuais? \n\n14- Você sente que a vida já não tem “sentido”? \n\n15- Você fica tão irado que chega a perder o controle? \n\n16- Você entra em PÂNICO quando está sob tensão? Você vive chorando? \n\n17- Você se sente “culpado”? \n\n18- Você sofre de depressão?</string>
+    <string name="pergunta_sou_neurotico">Sou uma pessoa neurótica?</string>
+    <string name="legenda_icone_sou_neurotico">Sou Neurótico?</string>
+    <string name="legenda_icone_quiz_emocional">Quiz Emocional</string>
+    <string name="legenda_icone_quem_somos">Quem somos?</string>
+    <string name="resposta_sou_neurotico">\n\nSe você respondeu SIM a qualquer uma das perguntas acima, é possível que você seja uma pessoa neurótica. \n\nSe você respondeu SIM a 2 perguntas, então é quase certo que você seja uma pessoa neurótica. \n\nSe você realmente reconhece que é uma pessoa neurótica, apresentamos agora a grande pergunta:</string>
+    <string name="sou_neorotico_voce_quer_ajuda">VOCÊ QUER AJUDA?</string>
+    <string name="legenda_icone_mapa">Encontre um Grupo</string>
+
+    <string-array name="perguntas_array">
+        <item>1- Gosto das pessoas e sinto prazer em estar junto delas.</item>
+        <item>2- Minha vida é rica, plena e recompensadora.", "3- Tenho uma fé profunda no bem que há na vida(podendo ser Deus, um Poder Superior ao homem ou um princípio geral para o bem).</item>
+        <item>4- Considero um privilégio ter nascido e estar vivo.</item>
+        <item>5- Antevejo cada novo dia com uma aventura estimulante.</item>
+        <item>6- Tenho paz de espírito e serena alegria.</item>
+        <item>7- Estou satisfeito com o meu trabalho.</item>
+        <item>8- Estou satisfeito com a minha posição na vida.</item>
+        <item>9- Minhas necessidades estão sendo atendidas.</item>
+        <item>10- Considero todos os seres humanos como meus irmãos e irmãs.</item>
+        <item>11- Gosto de ajudar meus semelhantes.</item>
+        <item>12- Sinto que vivo para servir.</item>
+        <item>13- Acredito que tudo na natureza é infinitamente belo.</item>
+        <item>14- Sinto que, como tudo mais, sou uma parcela mínima, porém importante, de toda a criação.</item>
+        <item>15- Gosto de estar só e também gosto de estar em companhia de outras pessoas.</item>
+        <item>16- Sinto- me geralmente descontraído.</item>
+        <item>17- Sinto-me geralmente bem.</item>
+        <item>18- Durmo bem.</item>
+        <item>19- Tenho bom apetite.</item>
+        <item>20- Tenho energia suficiente para fazer meu o trabalho.</item>
+        <item>21- Raramente tomo medicamentos estimulantes.</item>
+        <item>22- Tenho disposição para fazer as coisas de que sou capaz.</item>
+        <item>23- Não deixo de fazer o que sou capaz de fazer, aceitando o fato de que há muitas coisas que não sei fazer.</item>
+        <item>24- Sinto vivo interesse por muitas coisas.</item>
+        <item>25- Minhas vidas emocional é afetuosa e recompensadora. Amo, tenho percepção das coisas, procuro compreender e ser compassivo.</item>
+        <item>26- Meus pensamentos são calmos, objetivos, racionais, e não perturbado por emoções.</item>
+        <item>27- Considero minhas emoções um benefício, e não uma desvantagem.</item>
+        <item>28- A depressão, de que tanto se fala, é um sentimento desconhecido pra mim.</item>
+        <item>29- Eu me conheço e me aceito, e também aceito as outras pessoas como elas são.</item>
+        <item>30- Sinto que minha vida decorre calmamente, apresentando apenas pequenos altos e baixos.</item>
+        <item>31- Não deixo de fazer a minha parte, aguardando que depois as coisas tenham solução.</item>
+        <item>32- Procuro aprender sempre mais; acho que essa é uma busca para toda a vida.</item>
+        <item>33- Sinto prazer na assim chamadas \"pequenas coisas\", tais como o desabrochar de uma flor, uma pancada de chuva, uma concha no mar.</item>
+        <item>34- Quase nunca tenho distúrbios orgânicos, tais como deres de cabeça, dores nas costas, perturbações do estômago, náuseas e etc.</item>
+        <item>35- Sei que sou responsável por minhas ações, e que as outras pessoas também são responsáveis pelas suas.</item>
+        <item>36- Sinto- me à vontade com as pessoas e as situações.</item>
+        <item>37- Conisdero- me uma pessoas sadia.</item>
+        <item>38- Espero por coisas ainda melhores.</item>
+        <item>39- Acredito que o mundo está ficando cada vez melhor, apesar dos muitos problemas existentes.</item>
+        <item>40- Aprecio o trabalho modesto tanto quanto os grandes projetos e as grandes idéias.</item>
+        <item>41- Acredito que as pessoas são boas e que as dificuldades são causadas pela doença.</item>
+        <item>42- Creio que o caminho para a fraternidade e paz na terra está, como sempre esteve, ao alcance do homem, dependendo somente dele aprender a usá- lo.</item>
+        <item>43- Respeito cada pessoa e o seu trabalho. Considero o varredor de rua que faz o seu trabalho, tão importante quanto médico que faz o seu.</item>
+        <item>44- Sei que a saúde (física, mental, emocional e espiritual) depende de manutenção, pois não é uma coisa que, uma vez adquirida, permanesse como tal por si mesma.</item>
+        <item>45- Sinto que sou uma pessoa livre.</item>
+        <item>46- Sinto- me feliz, de ser a criatura que sou, nem melhor nem pior que ninguém.</item>
+        <item>47- Sinto que tenho valor sendo apenas eu mesmo.</item>
+        <item>48- Aceito o inevitável, a morte não me preocupa.</item>
+        <item>49- Eu me perdôo e aos outros por erros cometidos e não guardo ressentimentos.</item>
+        <item>50- Procuro ajudar os outros a encontrarem uma vida mais rica, mais feliz e mais saudável.</item>
+    </string-array>
+    <string name="como_fazer_quiz_p1">HONESTIDADE é o requisito mais importante para fazer este teste.\nSabemos que o teste pode ser \"fraudado\", marcando todas a respostas como SIM. Porém quem o fraudar será o único a sair perdendo.</string>
+    <string name="como_fazer_quiz_p2">Ninguém precisa ficar sabendo, apenas a pessoa interessada pode se colocar no gráfico, para seu próprio benefício, desde que seja o seu desejo.</string>
+    <string name="como_fazer_quiz_regra">Abaixo duas regras simples para fazer:</string>
+    <string name="como_fazer_quiz_regra1">1- Leia cada item.</string>
+    <string name="como_fazer_quiz_regra2">2- Selecione "Sim", se o item for verdadeiro para você;\n   Selecione "Não" se o item não for verdadeiro para você;\n   Selecione "Às vezes", se o item for verdadeiro para você apenas de vez em quando.</string>
+    <string name="como_fazer_quiz_curioso">Se estiver curioso para saber o resultado. Seja HONESTO consigo!</string>
+    <string name="textView_pontuacao">Pontuação:</string>
+    <string name="texto_pontuacao_menor25">Alerta!\n\nSugerimos procurar um grupo próximo de você  com urgência.\n\nEsta dor \"abstrata\" que você sente por dentro, nós a conhecemos bem, e podemos ajudar, não resista, venha.\n\nA irmandade N/A está de braços abertos esperando por você.\n\nOu sugerimos também que procure um profissional da Psicologia.</string>
+    <string name="texto_pontuacao_entre25e50">Alerta! Pontuação ainda baixa.\n\nSugerimos procurar um grupo próximo de você.\n\nEsta dor \"abstrata\" que você sente por dentro, nós a conhecemos bem, e podemos ajudar, não resista, venha.\nA irmandade N/A está de braços abertos esperando por você.\n\nOu sugerimos também que procure um profissional da Psicologia.</string>
+    <string name="texto_pontuacao_entre51e75">Parcialmente saudável! Pontuação acima da média.\n\nAinda há uma necessidade procurar ajuda.\n\nNossas emoções embora evidentes, costumam mascarar nosso estado real, e assim vamos vivendo uma vida de angustias com altos e baixos. Não as deixe dominar. Venha procurar ajuda.\nProcure um grupo próximo de você.\nA irmandade N/A está de braços abertos esperando por você.\n\nOu sugerimos também que procure um profissional da Psicoliogia.</string>
+    <string name="texto_pontuacao_acima75">Muito bem!\n\nSua saúde emocional está bem. Continue, sempre em busca de uma melhoria na saúde emocional.\nSe sentir necessidade procure um grupo próximo de você.\nA irmandade N/A está de braços abertos esperando por você.\n\nOu sugerimos também que procure um profissional da Psicologia.</string>
+    <string name="textView_sim_cardview">Sim</string>
+    <string name="textView_as_vezes_cardview">Às vezes</string>
+    <string name="textView_nao_cardview">Não</string>
+    <string name="texto_alert_responder_quiz">Responder.</string>
+    <string name="historico_quiz_titulo_barra">Histórico Quiz</string>
+    <string name="textView_data_historico">Data</string>
+    <string name="texto_iniciar_quiz">INICIAR QUIZ</string>
+    <string name="texto_como_fazer_quiz">COMO FAZER</string>
+    <string name="texto_historico_quiz">HISTÓRICO QUIZ</string>
+    <string name="texto_grupos_selecione">Selecione o Estado e a Cidade</string>
+    <string name="texto_menu_config_historico">Excluir todo histórico</string>
+    <string name="texto_encontre_grupo_activity">Encontre um Grupo</string>
+    <string name="texto_excluido_historico_activity">Excluído</string>
+    <string name="text_nada_excluir_historico_activity">Nada a excluir!</string>
+    <string name="texto_historico_excluido_historico_activity">Histórico excluído</string>
+    <string name="texto_bar_grafico_emocional_activity">Gráfico emocional</string>
+    <string name="texto_item_nao_respondido_quiz_activity">Item</string>
+    <string name="texto_nao_respondido_quiz_activity">não respondido,\nfavor responder!</string>
+    <string name="texto_excluir_tudo_historico_activity">Você tem certeza que deseja\nexcluir todo o histórico?</string>
+    <string name="texto_excluir_historico_alert_historico_activity">Excluir</string>
+    <string name="texto_cancelar_global">Cancelar</string>
+    <string name="texto_exclui_historico_unico_historico_activity">Tem certeza que\ndeseja excluír?</string>
+    <string name="texto_toast_abrir_mapa_grupos_activity">" TOQUE EM UM GRUPO\n PARA ABRIR NO MAPA."</string>
+    <string name="texto_toast_aplicativo_mapa_grupos_activitya">Nenhum aplicativo para abrir o mapa está instalado!</string>
+</resources>

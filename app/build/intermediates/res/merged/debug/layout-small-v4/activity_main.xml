@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.ericclauberic.na.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#C8E6C9"
+        android:orientation="vertical"
+        android:paddingBottom="50dp"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="30dp">
+
+
+        <LinearLayout style="@style/layout_icones_main_activity">
+
+
+            <ImageView
+                android:id="@+id/main_btn_imgview_quiz"
+                style="@style/icones_main_activity"
+                android:onClick="onClickQuiz"
+                android:src="@drawable/icone_quiz_emocional" />
+
+
+            <ImageView
+                android:id="@+id/main_btn_imgview_sou_neorotico"
+                style="@style/icones_main_activity"
+                android:onClick="onClickSouNeorotico"
+                android:src="@drawable/mascara_triste_feliz" />
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/layout_legenda_icones_main_activity">
+
+
+            <TextView
+                style="@style/legenda_icones_main_activity"
+                android:text="@string/legenda_icone_quiz_emocional" />
+
+            <TextView
+                style="@style/legenda_icones_main_activity"
+                android:text="@string/legenda_icone_sou_neurotico" />
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/layout_icones_main_activity">
+
+
+            <ImageView
+                android:id="@+id/main_btn_imgview_mapa"
+                style="@style/icones_main_activity"
+                android:onClick="onClickMapaGrupos"
+                android:src="@drawable/img_mapa_grupos" />
+
+
+            <ImageView
+
+                style="@style/icones_main_activity"
+                android:layout_toRightOf="@id/main_btn_imgview_quiz"
+                android:onClick="onClickSobre"
+                android:src="@drawable/icone_sobre" />
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/layout_legenda_icones_main_activity">
+
+
+            <TextView
+                style="@style/legenda_icones_main_activity"
+                android:text="@string/legenda_icone_mapa" />
+
+            <TextView
+                style="@style/legenda_icones_main_activity"
+                android:text="Quem Somos" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/mascaras" />
+        </LinearLayout>
+        <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:text="Grupos"-->
+        <!--android:onClick="onClickGruposTemp"/>-->
+    </LinearLayout>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/main_admob"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"></com.google.android.gms.ads.AdView>
+</RelativeLayout>

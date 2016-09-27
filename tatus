@@ -1,0 +1,23 @@
+[33mcommit 6a21128fce159566a81c1e1bfccd9e215b92b018[m
+Author: Eric Clauber <ericclauberic@gmail.com>
+Date:   Fri Aug 12 11:48:00 2016 -0300
+
+    adicionado varios arquivos
+
+[33mcommit 9ccd0bc6b970a8fbaf365349822ac55a13f4e978[m
+Author: Eric Clauber <ericclauberic@gmail.com>
+Date:   Fri Aug 12 11:44:11 2016 -0300
+
+    Criado classe PerguntaQuiz e Quiz
+
+[33mcommit b75cc4efccaf692f3a6d91ea62acf57d676ccc3b[m
+Author: Eric Clauber <ericclauberic@gmail.com>
+Date:   Fri Aug 12 10:52:30 2016 -0300
+
+    Removido Classe Interna TelaSlidePager Adapter da Classe QuizEmocionalActivity  e criado uma classe separada
+
+[33mcommit 0c60271f0357bb3f28e5eadf8d9ccd75cba440c5[m
+Author: Eric Clauber <ericclauberic@gmail.com>
+Date:   Fri Aug 12 10:02:54 2016 -0300
+
+    Criado Projeto splash, MainActivity, Botao Quiz, Fragment para ViewPager E View Pager

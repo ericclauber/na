@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/layout-large-v4/activity_main.xml",
+        "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout-large/activity_main.xml"
+    },
+    {
+        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/layout-large-v4/perguntas_card_view.xml",
+        "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout-large/perguntas_card_view.xml"
+    },
+    {
+        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/layout-large-v4/activity_iniciar_quiz.xml",
+        "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout-large/activity_iniciar_quiz.xml"
+    },
+    {
+        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/layout-large-v4/activity_grupos_end_mapa.xml",
+        "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout-large/activity_grupos_end_mapa.xml"
+    }
+]
