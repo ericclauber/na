@@ -1,7 +1,9 @@
 package br.com.ericclauberic.na.database;
 
 import android.content.Context;
+import android.content.res.Resources;
 import android.database.sqlite.SQLiteDatabase;
+import android.support.v7.app.AppCompatActivity;
 
 import com.j256.ormlite.android.apptools.OrmLiteSqliteOpenHelper;
 import com.j256.ormlite.dao.Dao;
@@ -11,7 +13,7 @@ import com.j256.ormlite.table.TableUtils;
 import java.sql.SQLException;
 import java.util.List;
 
-import br.com.ericclauberic.na.controle.ArrayStringPerguntasQuiz;
+import br.com.ericclauberic.na.R;
 import br.com.ericclauberic.na.controle.ListaDeCidadesInsercao;
 import br.com.ericclauberic.na.controle.ListaDeGruposInsercao;
 import br.com.ericclauberic.na.dao.CidadesDAO;
@@ -35,6 +37,9 @@ public class DatabaseHelper extends OrmLiteSqliteOpenHelper {
     private Dao<Grupos, Integer> gruposDAO = null;
     private Dao<Cidades, Integer> cidadesDAO = null;
     //
+    Resources resources;
+    Context context;
+    AppCompatActivity appCompatActivity;
 
     public DatabaseHelper(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
@@ -47,7 +52,7 @@ public class DatabaseHelper extends OrmLiteSqliteOpenHelper {
             TableUtils.createTable(connectionSource, Quiz.class);
             TableUtils.createTable(connectionSource, PerguntasQuiz.class);
             TableUtils.createTable(connectionSource, Grupos.class);
-            TableUtils.createTable(connectionSource,Cidades.class);
+            TableUtils.createTable(connectionSource, Cidades.class);
             //
             chamaInserePerguntasBanco();
             //
@@ -67,7 +72,7 @@ public class DatabaseHelper extends OrmLiteSqliteOpenHelper {
             TableUtils.dropTable(connectionSource, Quiz.class, true);
             TableUtils.dropTable(connectionSource, PerguntasQuiz.class, true);
             TableUtils.dropTable(connectionSource, Grupos.class, true);
-            TableUtils.dropTable(connectionSource,Cidades.class,true);
+            TableUtils.dropTable(connectionSource, Cidades.class, true);
         } catch (SQLException e) {
             e.printStackTrace();
         }
@@ -99,10 +104,11 @@ public class DatabaseHelper extends OrmLiteSqliteOpenHelper {
         }
         return gruposDAO;
     }
+
     //
     public Dao<Cidades, Integer> getCidadesDAO() throws SQLException {
         if (cidadesDAO == null) {
-            cidadesDAO= getDao(Cidades.class);
+            cidadesDAO = getDao(Cidades.class);
         }
         return cidadesDAO;
     }
@@ -123,7 +129,9 @@ public class DatabaseHelper extends OrmLiteSqliteOpenHelper {
     public void chamaInserePerguntasBanco() {
 
         // Array de perguntas para inserir no banco
-        String[] perguntasArray = new ArrayStringPerguntasQuiz().getArrayPerguntas();
+        ArrayStringPerguntas arrayStringPerguntas = new ArrayStringPerguntas();
+        String[] perguntasArray = arrayStringPerguntas.getArrayPerguntas();
+
         //
         PerguntasDAO perguntasDAO = new PerguntasDAO();
         PerguntasQuiz perguntasQuiz;
@@ -135,7 +143,8 @@ public class DatabaseHelper extends OrmLiteSqliteOpenHelper {
             perguntasDAO.salvarPerguntas(perguntasQuiz);
         }
     }
-
+    //
+    //
     public void chamaInsereGruposBanco() {
         List<Grupos> gruposList = new ListaDeGruposInsercao().getListaDeGrupos();
 
@@ -149,6 +158,7 @@ public class DatabaseHelper extends OrmLiteSqliteOpenHelper {
 
         }
     }
+
     //
     public void chamaInsereCidadesBanco() {
         List<Cidades> cidadesList = new ListaDeCidadesInsercao().getListaDeCidade();
@@ -164,5 +174,22 @@ public class DatabaseHelper extends OrmLiteSqliteOpenHelper {
         }
 
     }
+    //
+    // Criado esta classe interna para extender de AddCompatActivity, e obter o método getResources(),
+    // para repassar 'array de string' de perguntas
+    public class ArrayStringPerguntas extends AppCompatActivity{
+
+        public String[] getArrayPerguntas(){
+
+            Resources resources = getResources();
+
+            String[] array = resources.getStringArray(R.array.perguntas_array);
+            return array;
+        }
+    }
+    //
+    //
+
+
 
 } // FIM
