@@ -59,12 +59,13 @@
     </string-array>
 
     <string-array name="perguntas_array">
-        <item>1- Gosto das pessoas e sinto prazer em estar junto delas.</item>
-        <item>2- Minha vida é rica, plena e recompensadora.", "3- Tenho uma fé profunda no bem que há na vida(podendo ser Deus, um Poder Superior ao homem ou um princípio geral para o bem).</item>
-        <item>4- Considero um privilégio ter nascido e estar vivo.</item>
-        <item>5- Antevejo cada novo dia com uma aventura estimulante.</item>
-        <item>6- Tenho paz de espírito e serena alegria.</item>
-        <item>7- Estou satisfeito com o meu trabalho.</item>
+        <item>1- I like the people and I feel happy to be with them.</item>
+        <item>2- My life is rich, full and rewarding.</item>
+        <item>3- I have a deep faith in the good that is in life (which may be God, a Higher Power to man or a general principle for good).</item>
+        <item>4- I consider it a privilege to have been born and alive.</item>
+        <item>5- I anticipate each new day with a stimulating adventure.</item>
+        <item>6- I have peace of spirit and quiet joy.</item>
+        <item>7- I am satisfied with my work.</item>
         <item>8- Estou satisfeito com a minha posição na vida.</item>
         <item>9- Minhas necessidades estão sendo atendidas.</item>
         <item>10- Considero todos os seres humanos como meus irmãos e irmãs.</item>

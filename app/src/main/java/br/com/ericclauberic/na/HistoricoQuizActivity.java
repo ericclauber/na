@@ -32,6 +32,7 @@ public class HistoricoQuizActivity extends AppCompatActivity {
         actionBar.setTitle(this.getString(R.string.historico_quiz_titulo_barra));
         actionBar.setDisplayHomeAsUpEnabled(true);
 
+
         //
         final ListView listViewQuiz;
 

@@ -2,7 +2,8 @@
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="perguntas_array">
         <item>1- Gosto das pessoas e sinto prazer em estar junto delas.</item>
-        <item>2- Minha vida é rica, plena e recompensadora.", "3- Tenho uma fé profunda no bem que há na vida(podendo ser Deus, um Poder Superior ao homem ou um princípio geral para o bem).</item>
+        <item>2- Minha vida é rica, plena e recompensadora.</item>
+        <item>3- Tenho uma fé profunda no bem que há na vida(podendo ser Deus, um Poder Superior ao homem ou um princípio geral para o bem).</item>
         <item>4- Considero um privilégio ter nascido e estar vivo.</item>
         <item>5- Antevejo cada novo dia com uma aventura estimulante.</item>
         <item>6- Tenho paz de espírito e serena alegria.</item>

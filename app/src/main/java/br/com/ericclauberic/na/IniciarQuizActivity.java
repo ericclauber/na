@@ -23,6 +23,8 @@ public class IniciarQuizActivity extends AppCompatActivity {
         ActionBar actionBar = getSupportActionBar();
         actionBar.setTitle(getString(R.string.legenda_icone_quiz_emocional));
         actionBar.setDisplayHomeAsUpEnabled(true);
+        //
+        //
         // AdMOB
         adView = (AdView) findViewById(R.id.activity_iniciar_quiz_admob);
         adView.setAdListener(new ToastListener(this));
@@ -47,5 +49,12 @@ public class IniciarQuizActivity extends AppCompatActivity {
 
     }
 
-
+    public String[] getArrayPerguntas(){
+                //
+        String[] array = getResources().getStringArray(R.array.perguntas_array);
+//        for (int i = 0; i < array.length; i++) {
+//            System.out.println("PErguntas: >>>>>>>>>> " + array[i]);
+//        }
+        return array;
+    }
 } // FIM

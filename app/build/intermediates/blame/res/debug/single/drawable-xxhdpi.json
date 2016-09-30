@@ -64,12 +64,12 @@
         "source": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable-xxhdpi/ic_cast_on_1_light.png"
     },
     {
-        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/drawable-xxhdpi/powered_by_google_dark.png",
-        "source": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/res/drawable-xxhdpi/powered_by_google_dark.png"
-    },
-    {
         "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_cast_dark.png",
         "source": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable-xxhdpi/ic_cast_dark.png"
+    },
+    {
+        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/drawable-xxhdpi/powered_by_google_dark.png",
+        "source": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/res/drawable-xxhdpi/powered_by_google_dark.png"
     },
     {
         "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_media_route_disabled_mono_dark.png",

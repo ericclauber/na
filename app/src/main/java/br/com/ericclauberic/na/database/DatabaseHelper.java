@@ -1,9 +1,7 @@
 package br.com.ericclauberic.na.database;
 
 import android.content.Context;
-import android.content.res.Resources;
 import android.database.sqlite.SQLiteDatabase;
-import android.support.v7.app.AppCompatActivity;
 
 import com.j256.ormlite.android.apptools.OrmLiteSqliteOpenHelper;
 import com.j256.ormlite.dao.Dao;
@@ -37,12 +35,16 @@ public class DatabaseHelper extends OrmLiteSqliteOpenHelper {
     private Dao<Grupos, Integer> gruposDAO = null;
     private Dao<Cidades, Integer> cidadesDAO = null;
     //
-    Resources resources;
-    Context context;
-    AppCompatActivity appCompatActivity;
+    private Context context;
+
 
     public DatabaseHelper(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
+        //
+        // Application context
+        // Atruibuido contexto de AplicationContext, para Context context. Pace acessar o
+        // Resource de String eno método chamaInserePerguntasBanco();
+        this.context = context.getApplicationContext();
     }
 
     @Override
@@ -127,11 +129,8 @@ public class DatabaseHelper extends OrmLiteSqliteOpenHelper {
 
     // Método para receber a String de perguntas e inserir no banco
     public void chamaInserePerguntasBanco() {
-
-        // Array de perguntas para inserir no banco
-        ArrayStringPerguntas arrayStringPerguntas = new ArrayStringPerguntas();
-        String[] perguntasArray = arrayStringPerguntas.getArrayPerguntas();
-
+        //
+        String[] perguntasArray = this.context.getResources().getStringArray(R.array.perguntas_array);
         //
         PerguntasDAO perguntasDAO = new PerguntasDAO();
         PerguntasQuiz perguntasQuiz;
@@ -145,6 +144,23 @@ public class DatabaseHelper extends OrmLiteSqliteOpenHelper {
     }
     //
     //
+//    public class Temp extends AppCompatActivity{
+//        public String[] retornaArray(){
+//
+//            Resources resources = getResources();
+//
+//
+//            //
+//            String[] array = resources.getStringArray(R.array.perguntas_array);
+////            for (int i = 0; i< array.length;i++) {
+////                System.out.println("PErguntas: >>>>>>>>>> " + array[i]);
+////            }
+//            return array;
+//        }
+//    }
+    //
+    //
+
     public void chamaInsereGruposBanco() {
         List<Grupos> gruposList = new ListaDeGruposInsercao().getListaDeGrupos();
 
@@ -174,22 +190,5 @@ public class DatabaseHelper extends OrmLiteSqliteOpenHelper {
         }
 
     }
-    //
-    // Criado esta classe interna para extender de AddCompatActivity, e obter o método getResources(),
-    // para repassar 'array de string' de perguntas
-    public class ArrayStringPerguntas extends AppCompatActivity{
-
-        public String[] getArrayPerguntas(){
-
-            Resources resources = getResources();
-
-            String[] array = resources.getStringArray(R.array.perguntas_array);
-            return array;
-        }
-    }
-    //
-    //
-
-
 
 } // FIM

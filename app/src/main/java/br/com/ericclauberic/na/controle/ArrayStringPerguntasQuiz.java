@@ -7,7 +7,6 @@ public class ArrayStringPerguntasQuiz {
 
     String[] perguntasArray;
 
-
     public String[] getArrayPerguntas() {
         perguntasArray = new String[]{"1- Gosto das pessoas e sinto o prazer em estar junto delas.",
                 "2- Minha vida é rica, plena e recompensadora.",

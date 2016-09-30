@@ -68,6 +68,10 @@
         "source": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png"
     },
     {
+        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/drawable-mdpi/logo_na.png",
+        "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/drawable-mdpi/logo_na.png"
+    },
+    {
         "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_icon_normal_light.9.png",
         "source": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png"
     },
