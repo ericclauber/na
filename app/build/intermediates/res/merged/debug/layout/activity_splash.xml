@@ -21,7 +21,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:src="@drawable/logo_na"/>
+            android:src="@drawable/logo_na"
+            android:contentDescription="Logo N/A"
+            tools:ignore="HardcodedText" />
 
     </FrameLayout>
 

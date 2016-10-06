@@ -24,7 +24,7 @@
             android:layout_height="wrap_content"
             android:text="1. Pergunta 1"
             android:textColor="@android:color/white"
-            android:textSize="24sp" />
+            android:textSize="32sp" />
         <!---->
         <RadioGroup
             android:id="@+id/card_view_radio_group"
@@ -44,7 +44,7 @@
                 android:layout_weight="1"
                 android:checked="false"
                 android:textColor="@android:color/white"
-                android:textSize="24sp"
+                android:textSize="32sp"
                 android:text="@string/textView_sim_cardview"/>
 
             <RadioButton
@@ -54,7 +54,7 @@
                 android:layout_weight="2"
                 android:checked="false"
                 android:textColor="@android:color/white"
-                android:textSize="24sp"
+                android:textSize="32sp"
                 android:text="@string/textView_as_vezes_cardview"/>
 
             <RadioButton
@@ -64,7 +64,7 @@
                 android:layout_weight="1"
                 android:checked="false"
                 android:textColor="@android:color/white"
-                android:textSize="24sp"
+                android:textSize="32sp"
                 android:text="@string/textView_nao_cardview"/>
             <!--</LinearLayout>-->
         </RadioGroup>

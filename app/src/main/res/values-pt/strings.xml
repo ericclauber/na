@@ -13,7 +13,7 @@
     <string name="resposta_sou_neurotico">\n\nSe você respondeu SIM a qualquer uma das perguntas acima, é possível que você seja uma pessoa neurótica. \n\nSe você respondeu SIM a 2 perguntas, então é quase certo que você seja uma pessoa neurótica. \n\nSe você realmente reconhece que é uma pessoa neurótica, apresentamos agora a grande pergunta:</string>
     <string name="sou_neorotico_voce_quer_ajuda">VOCÊ QUER AJUDA?</string>
     <string name="legenda_icone_mapa">Encontre um Grupo</string>
-
+<!---->
     <string-array name="perguntas_array">
         <item>1- Gosto das pessoas e sinto prazer em estar junto delas.</item>
         <item>2- Minha vida é rica, plena e recompensadora.</item>
@@ -39,7 +39,7 @@
         <item>22- Tenho disposição para fazer as coisas de que sou capaz.</item>
         <item>23- Não deixo de fazer o que sou capaz de fazer, aceitando o fato de que há muitas coisas que não sei fazer.</item>
         <item>24- Sinto vivo interesse por muitas coisas.</item>
-        <item>25- Minhas vidas emocional é afetuosa e recompensadora. Amo, tenho percepção das coisas, procuro compreender e ser compassivo.</item>
+        <item>25- Minha vida emocional é afetuosa e recompensadora. Amo, tenho percepção das coisas, procuro compreender e ser compassivo.</item>
         <item>26- Meus pensamentos são calmos, objetivos, racionais, e não perturbado por emoções.</item>
         <item>27- Considero minhas emoções um benefício, e não uma desvantagem.</item>
         <item>28- A depressão, de que tanto se fala, é um sentimento desconhecido pra mim.</item>
@@ -101,4 +101,14 @@
     <string name="texto_exclui_historico_unico_historico_activity">Tem certeza que\ndeseja excluír?</string>
     <string name="texto_toast_abrir_mapa_grupos_activity">" TOQUE EM UM GRUPO\n PARA ABRIR NO MAPA."</string>
     <string name="texto_toast_aplicativo_mapa_grupos_activitya">Nenhum aplicativo para abrir o mapa está instalado!</string>
+    <string name="grupos_nome_lista">"Nome: "</string>
+    <string name="grupos_endereco_lista">"End.: "</string>
+    <string name="grupo_numero_lista">"N.: "</string>
+    <string name="grupo_bairro_lista">"Bairro: "</string>
+    <string name="grupos_cidade_lista">"Cidade: "</string>
+    <string name="grupos_estado_lista">"UF: "</string>
+    <string name="grupos_local_lista">"Local: "</string>
+    <string name="texto_resultado_quiz_activity">Resultado Quiz</string>
+    <string name="grupos_telefone_lista">Fone.:</string>
+    <string name="grupos_email_lista">E-mail:</string>
 </resources>

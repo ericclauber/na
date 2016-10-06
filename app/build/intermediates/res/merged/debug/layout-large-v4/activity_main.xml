@@ -40,11 +40,11 @@
 
 
             <TextView
-                style="@style/legenda_icones_main_activity"
+                style="@style/legenda_icones_large_main_activity"
                 android:text="@string/legenda_icone_quiz_emocional" />
 
             <TextView
-                style="@style/legenda_icones_main_activity"
+                style="@style/legenda_icones_large_main_activity"
                 android:text="@string/legenda_icone_sou_neurotico" />
 
         </LinearLayout>
@@ -72,19 +72,19 @@
 
 
             <TextView
-                style="@style/legenda_icones_main_activity"
+                style="@style/legenda_icones_large_main_activity"
                 android:text="@string/legenda_icone_mapa" />
 
             <TextView
-                style="@style/legenda_icones_main_activity"
+                style="@style/legenda_icones_large_main_activity"
                 android:text="@string/legenda_icone_quem_somos" />
 
         </LinearLayout>
 
         <LinearLayout
-            android:layout_marginTop="60dp"
-            android:layout_width="500dp"
-            android:layout_height="200dp"
+            android:layout_marginTop="100dp"
+            android:layout_width="600dp"
+            android:layout_height="300dp"
             android:layout_gravity="center">
 
             <ImageView

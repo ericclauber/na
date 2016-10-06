@@ -2,7 +2,6 @@ package br.com.ericclauberic.na.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -53,35 +52,15 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
         final PerguntasQuiz perguntasQuiz = perguntasQuizList.get(position);
         //
 
-
-        //your other stuff
-//
-//        if (holder.radioGroup.getCheckedRadioButtonId() == holder.radioButtonSim.getId()) {
-//            holder.radioGroup.check(holder.radioButtonSim.getId());
-//            //holder.radioButtonSim.isChecked();
-//        } else if (holder.radioGroup.getCheckedRadioButtonId() == holder.radioButtonAsVezes.getId()) {
-//            holder.radioButtonAsVezes.isChecked();
-//        } else if (holder.radioGroup.getCheckedRadioButtonId() == holder.radioButtonNao.getId()) {
-//            holder.radioButtonNao.isChecked();
-//        } else {
-//            holder.radioGroup.clearCheck();
-//        }
-////        Message message = messageArrayList.get(position);
-////        holder.vRadioGroup.setTag(position);
-////        if (message.getSelectedRadioButtonId() != -1) {
-////            holder.vRadioGroup.check(message.getSelectedRadioButtonId());
-////        } else {
-////            //your always need to write else condition
-////            holder.vRadioGroup.clearCheck();
-////        }
-
-
         // Modifica o texto na View.
+
         holder.textViewPerguntas.setText(perguntasQuiz.getPergunta());
         //
         holder.radioButtonSim.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
+                //
                 atualizaListaPerguntaQuizResposta(holder.getLayoutPosition(), PerguntasQuiz.RESPOSTA_SIM);
 
             }
@@ -90,6 +69,7 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
         holder.radioButtonAsVezes.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
                 atualizaListaPerguntaQuizResposta(holder.getLayoutPosition(), PerguntasQuiz.RESPOSTA_AS_VEZES);
 
             }
@@ -98,6 +78,7 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
         holder.radioButtonNao.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
                 atualizaListaPerguntaQuizResposta(holder.getLayoutPosition(), PerguntasQuiz.RESPOSTA_NAO);
             }
         });
@@ -153,49 +134,16 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
         private RadioButton radioButtonSim;
         private RadioButton radioButtonAsVezes;
         private RadioButton radioButtonNao;
-        QuizRecyclerViewAdapter quizRecyclerViewAdapter;
+
 
         public QuizViewHolder(View itemView) {
             super(itemView);
             radioGroup = (RadioGroup) itemView.findViewById(R.id.card_view_radio_group);
-            //
-            radioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
-                @Override
-                public void onCheckedChanged(RadioGroup group, int checkedId) {
-                    if (checkedId == R.id.card_view_radio_button_sim) {
-                        group.setTag(checkedId);
-                        Log.i("log", "Item: " + getAdapterPosition() + " selecionado SIM");
-                    } else if (checkedId == R.id.card_view_radio_button_as_vezes) {
-                        group.setTag(checkedId);
-                        Log.i("log", "Item: " + getAdapterPosition() + " selecionado AS VEZES");
-                    } else if (checkedId == R.id.card_view_radio_button_nao) {
-                        group.setTag(checkedId);
-                        Log.i("log", "Item: " + getAdapterPosition() + " selecionado NÃO");
-                    } else {
-                        group.clearCheck();
-                    }
-
-                }
-            });
-//            radioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
-//                @Override
-//                public void onCheckedChanged(RadioGroup group, int checkedId) {
-////                    RadioButton radioButton = (RadioButton) group.findViewById(checkedId);
-////                    radioButton.i
-//
-////                    int radioButtonID = group.getCheckedRadioButtonId();
-////                    RadioButton radioButtonID = (RadioButton) group.findViewById(checkedId);
-//                    int posicaoClicado = (int) radioGroup.getTag();
-//
-//                    quizRecyclerViewAdapter.getPerguntasQuizList().get(posicaoClicado).setSelectedRadioButtonId(checkedId);
-//
-//                }
-//            });
-            //
             radioButtonSim = (RadioButton) itemView.findViewById(R.id.card_view_radio_button_sim);
             radioButtonAsVezes = (RadioButton) itemView.findViewById(R.id.card_view_radio_button_as_vezes);
             radioButtonNao = (RadioButton) itemView.findViewById(R.id.card_view_radio_button_nao);
             textViewPerguntas = (TextView) itemView.findViewById(R.id.text_view_id_perguntas_quiz);
+            //
         }
 
 

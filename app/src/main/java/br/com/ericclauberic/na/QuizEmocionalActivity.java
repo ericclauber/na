@@ -52,15 +52,7 @@ public class QuizEmocionalActivity extends FragmentActivity {
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this);
         linearLayoutManager.setOrientation(LinearLayoutManager.VERTICAL);
         recyclerView.setLayoutManager(linearLayoutManager);
-
         //
-
-        //  List<PerguntasQuiz> perguntasQuizList =  perguntasDAO.listaTodasPerguntasBanco();
-
-//        Informacao informacao = informacaoDAO.recuoearInfoPeloId(2);
-//        Toast.makeText(this, informacao.getTitulo(), Toast.LENGTH_LONG).show()
-
-//QuizRecyclerViewAdapter quizRecyclerViewAdapter = new QuizRecyclerViewAdapter();
         this.quizRecyclerViewAdapter = new QuizRecyclerViewAdapter();
         recyclerView.setAdapter(quizRecyclerViewAdapter);
 
