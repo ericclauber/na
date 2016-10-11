@@ -48,4 +48,11 @@ public class Cidades {
     public void setUf(String uf) {
         this.uf = uf;
     }
-}
+
+    @Override
+    public String toString() {
+        return cidade;
+    }
+} // FIM
+
+

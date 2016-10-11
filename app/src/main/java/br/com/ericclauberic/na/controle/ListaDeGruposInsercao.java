@@ -3,6 +3,7 @@ package br.com.ericclauberic.na.controle;
 import java.util.ArrayList;
 import java.util.List;
 
+import br.com.ericclauberic.na.modelo.Cidades;
 import br.com.ericclauberic.na.modelo.Grupos;
 
 /**
@@ -12,6 +13,7 @@ public class ListaDeGruposInsercao {
 
     public List<Grupos> getListaDeGrupos() {
         List<Grupos> gruposList = new ArrayList<Grupos>();
+        Cidades cidades;
         //
         Grupos harmonia = new Grupos();
         harmonia.setNomeGrupo("Harmonia");
@@ -23,6 +25,9 @@ public class ListaDeGruposInsercao {
         harmonia.setLocal("Pastoral da Saúde da Paróquia N. Sra. das Dores");
         harmonia.setLatitude(-3.732134);
         harmonia.setLongitude(-38.543449);
+        cidades = new Cidades();
+        cidades.setId(1);
+        harmonia.setCidades(cidades);
         //
         Grupos sabedoria = new Grupos();
         sabedoria.setNomeGrupo("Sabedoria");
@@ -34,6 +39,9 @@ public class ListaDeGruposInsercao {
         sabedoria.setLocal("Escola Mariano Martins");
         sabedoria.setLatitude(-3.760402);
         sabedoria.setLongitude(-38.585766);
+        cidades = new Cidades();
+        cidades.setId(1);
+        sabedoria.setCidades(cidades);
 
         Grupos paz = new Grupos();
         paz.setNomeGrupo("Serenidade");
@@ -45,6 +53,9 @@ public class ListaDeGruposInsercao {
         paz.setLocal("Inst.Cearense Educ. Surdos");
         paz.setLatitude(-3.740259);
         paz.setLongitude(-38.510964);
+        cidades = new Cidades();
+        cidades.setId(1);
+        paz.setCidades(cidades);
 
         Grupos livre = new Grupos();
         livre.setNomeGrupo("Livre");
@@ -56,6 +67,9 @@ public class ListaDeGruposInsercao {
         livre.setLocal("Inst.Cearense Educ. Surdos");
         livre.setLatitude(-3.740259);
         livre.setLongitude(-38.510964);
+        cidades = new Cidades();
+        cidades.setId(1);
+        livre.setCidades(cidades);
 
         Grupos porhoje = new Grupos();
         porhoje.setNomeGrupo("Só por Hoje");
@@ -67,6 +81,9 @@ public class ListaDeGruposInsercao {
         porhoje.setLocal("Pastoral da Saúde da Paróquia N. Sra. das Dores");
         porhoje.setLatitude(-3.732134);
         porhoje.setLongitude(-38.543449);
+        cidades = new Cidades();
+        cidades.setId(1);
+        porhoje.setCidades(cidades);
 
         Grupos amanha = new Grupos();
         amanha.setNomeGrupo("Só por Hoje");
@@ -78,6 +95,9 @@ public class ListaDeGruposInsercao {
         amanha.setLocal("Pastoral da Saúde da Paróquia N. Sra. das Dores");
         amanha.setLatitude(-3.732134);
         amanha.setLongitude(-38.543449);
+        cidades = new Cidades();
+        cidades.setId(15);
+        amanha.setCidades(cidades);
 
         gruposList.add(harmonia);
         gruposList.add(sabedoria);

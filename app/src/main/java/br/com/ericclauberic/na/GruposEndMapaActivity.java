@@ -18,7 +18,6 @@ import android.widget.Toast;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import br.com.ericclauberic.na.adapter.GruposAdapter;
@@ -104,28 +103,25 @@ public class GruposEndMapaActivity extends AppCompatActivity implements AdapterV
         ListaDeCidadesInsercao listaDeCidadesInsercao = new ListaDeCidadesInsercao();
         Context context;
 
-        //List<Grupos> cidade = gruposDAO.listaGruposBancoCidade("CE");
-        List<String> nomes = new ArrayList<String>();
+
+      //  List<String> anomes = new ArrayList<String>();
 
         //
         //ArrayAdapter<String> adapterCidade = new ArrayAdapter<String>(context, android.R.layout.simple_spinner_dropdown_item);
         public void onItemSelected(AdapterView<?> parent, View v, int position, long id) {
 
-            //  List<Grupos> gruposList = gruposDAO.listaGruposBancoCidade("CE");
-//                List<Cidades> cidadesList = listaDeCidadesInsercao.getListaDeCidade();
-
             List<Cidades> cidadesList = cidadesDAO.listaCidadesPorUF(String.valueOf(parent.getSelectedItem()));
-//                System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> " + v.);
+
             //Adicionando Nomes no ArrayList
-            for (int i = 0; i < cidadesList.size(); i++) {
-                Cidades cidades = cidadesList.get(i);
-                nomes.add(cidades.getCidade());
-            }
+//            for (int i = 0; i < cidadesList.size(); i++) {
+//                Cidades cidades = cidadesList.get(i);
+//                cidadesListnomes.add(cidades.getCidade());
+//            }
 
             Spinner spinnerCidade = (Spinner) findViewById(R.id.activity_grupos_cidade_spinner);
             //Cria um ArrayAdapter usando um padrão de layout da classe R do android, passando o ArrayList nomes
-            ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(GruposEndMapaActivity.this, android.R.layout.simple_spinner_dropdown_item, nomes);
-            ArrayAdapter<String> spinnerArrayAdapter = arrayAdapter;
+            ArrayAdapter<Cidades> arrayAdapter = new ArrayAdapter<Cidades>(GruposEndMapaActivity.this, android.R.layout.simple_spinner_dropdown_item, cidadesList);
+            ArrayAdapter<Cidades> spinnerArrayAdapter = arrayAdapter;
             spinnerArrayAdapter.setDropDownViewResource(android.R.layout.simple_spinner_item);
             spinnerCidade.setAdapter(spinnerArrayAdapter);
 
@@ -157,17 +153,16 @@ public class GruposEndMapaActivity extends AppCompatActivity implements AdapterV
         private ListView listViewGrupos;
         private List<Grupos> gruposLista;
         GruposDAO gruposDAO = new GruposDAO();
+        //CidadesDAO cidadesDAO = new CidadesDAO();
 
 
         public void onItemSelected(AdapterView<?> parent, View v, int position, long id) {
-            //
-            //   if (parent.getSelectedItem().equals("FORTALEZA")) {
-//
-            String cidade = (String) parent.getSelectedItem();
 
             listViewGrupos = (ListView) findViewById(R.id.activity_grupos_lista);
             //
-            gruposLista = gruposDAO.listaGruposBancoCidade(String.valueOf(parent.getSelectedItem()));
+//            gruposLista = gruposDAO.listaGruposBancoCidade(String.valueOf(parent.getSelectedItem()));
+
+            gruposLista = gruposDAO.listaGruposCodCidade((Cidades) parent.getSelectedItem());
             //
             listViewGrupos.setAdapter(new GruposAdapter(v.getContext(), gruposLista));
             listViewGrupos.setOnItemClickListener(this);

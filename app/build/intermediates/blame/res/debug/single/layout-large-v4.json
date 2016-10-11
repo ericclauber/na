@@ -24,6 +24,10 @@
         "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout-large/activity_iniciar_quiz.xml"
     },
     {
+        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/layout-large-v4/activity_splash.xml",
+        "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout-large/activity_splash.xml"
+    },
+    {
         "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/layout-large-v4/historico_quiz_adapter_lista.xml",
         "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout-large/historico_quiz_adapter_lista.xml"
     },

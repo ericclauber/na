@@ -42,7 +42,7 @@ public class CidadesDAO {
     public void salvarCidades(Cidades cidades) {
         try {
             cidadesDao.createIfNotExists(cidades);
-            Log.d(TAG, ">>>>>>>>>>>>>>>>Salvo com sucesso");
+            Log.d(TAG, ">>>>>>>>>>>>>>>> !!!!!!!!!!!!!!!!!!!!!Salvo com sucesso");
         } catch (SQLException e) {
             e.printStackTrace();
         }

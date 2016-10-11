@@ -46,6 +46,10 @@ public class Grupos {
     private String email1;
     @DatabaseField(columnName = "email2")
     private String email2;
+    // Faz referência ao Id da cidade em Cidades
+    @DatabaseField(foreign = true, columnName = "codcidade", foreignAutoRefresh = true)
+    private Cidades cidades;
+
 
     public Grupos() {
     }
@@ -53,7 +57,7 @@ public class Grupos {
     public Grupos(int id, String nomeGrupo, double latitude, double longitude) {
         this.nomeGrupo = nomeGrupo;
         this.id = id;
-        this.latitude =latitude;
+        this.latitude = latitude;
         this.longitude = longitude;
     }
 
@@ -199,6 +203,14 @@ public class Grupos {
 
     public void setEmail2(String email2) {
         this.email2 = email2;
+    }
+
+    public Cidades getCidades() {
+        return cidades;
+    }
+
+    public void setCidades(Cidades cidades) {
+        this.cidades = cidades;
     }
 
     @Override

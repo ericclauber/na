@@ -9,6 +9,7 @@ import java.util.List;
 
 import br.com.ericclauberic.na.application.NAApplication;
 import br.com.ericclauberic.na.database.DatabaseHelper;
+import br.com.ericclauberic.na.modelo.Cidades;
 import br.com.ericclauberic.na.modelo.Grupos;
 
 /**
@@ -73,8 +74,18 @@ public class GruposDAO {
         }
         return gruposList;
     }
-
     //
+    public List<Grupos> listaGruposCodCidade(Cidades cidades) {
+
+        List<Grupos> gruposList = null;
+
+        try {
+            gruposList = gruposDao.queryBuilder().where().eq("codcidade", cidades).query();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        return gruposList;
+    }
 
 
 } //FIM
