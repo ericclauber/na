@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Oct 11 12:34:29 BRT 2016
+#Tue Oct 11 13:21:20 BRT 2016
 210.set=ANDROID_RESOURCE
 282.file=/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/resources-debug.ap_/res/layout-large-v4/activity_main.xml
 14.set=ANDROID_RESOURCE

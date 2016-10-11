@@ -60,7 +60,9 @@ public class GruposAdapter extends BaseAdapter {
         enderecoGrupo.setText(grupos.getEndereco());
         numeroGrupo.setText(grupos.getNumero());
         bairroGrupo.setText(grupos.getBairro());
-        cidadeGrupo.setText(grupos.getCidade());
+        // Método "grupos.getCidades().getCidade()" só funciona devido ao parametro foreignAutoRefresh = true
+        // no campo cidades(Cidade) em Grupos.java
+        cidadeGrupo.setText(grupos.getCidades().getCidade());
         ufGrupo.setText(grupos.getUf());
         localGrupo.setText(grupos.getLocal());
         // Retorna a view dos grupos

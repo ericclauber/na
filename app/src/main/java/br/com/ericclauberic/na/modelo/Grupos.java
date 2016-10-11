@@ -215,6 +215,6 @@ public class Grupos {
 
     @Override
     public String toString() {
-        return cidade;
+        return cidades.getCidade();
     }
 } // FIM

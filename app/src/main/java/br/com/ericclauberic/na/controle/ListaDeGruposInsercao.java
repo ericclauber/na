@@ -90,7 +90,7 @@ public class ListaDeGruposInsercao {
         amanha.setEndereco("Praça Otávio Bonfim");
         amanha.setNumero("S/N");
         amanha.setBairro("Otávio Bonfim");
-        amanha.setCidade("QUIXADÁ");
+        amanha.setCidade("QUIXADAAAA");
         amanha.setUf("CE");
         amanha.setLocal("Pastoral da Saúde da Paróquia N. Sra. das Dores");
         amanha.setLatitude(-3.732134);
