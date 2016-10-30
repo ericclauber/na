@@ -519,6 +519,7 @@
     <string name="texto_item_nao_respondido_quiz_activity">Item</string>
     <string name="texto_menu_config_historico">Delete all historic</string>
     <string name="texto_nao_respondido_quiz_activity">unanswered,\nanswer please!</string>
+    <string name="texto_obter_resultado_quiz">Get Result</string>
     <string name="texto_pontuacao_acima75">Muito bem!\n\nSua saúde emocional está bem. Continue, sempre em busca de uma melhoria na saúde emocional.\nSe sentir necessidade procure um grupo próximo de você.\nA irmandade N/A está de braços abertos esperando por você.\n\nOu sugerimos também que procure um profissional da Psicologia.</string>
     <string name="texto_pontuacao_entre25e50">Alerta! Pontuação ainda baixa.\n\nSugerimos procurar um grupo próximo de você.\n\nEsta dor \"abstrata\" que você sente por dentro, nós a conhecemos bem, e podemos ajudar, não resista, venha.\nA irmandade N/A está de braços abertos esperando por você.\n\nOu sugerimos também que procure um profissional da Psicologia.</string>
     <string name="texto_pontuacao_entre51e75">Parcialmente saudável! Pontuação acima da média.\n\nAinda há uma necessidade procurar ajuda.\n\nNossas emoções embora evidentes, costumam mascarar nosso estado real, e assim vamos vivendo uma vida de angustias com altos e baixos. Não as deixe dominar. Venha procurar ajuda.\nProcure um grupo próximo de você.\nA irmandade N/A está de braços abertos esperando por você.\n\nOu sugerimos também que procure um profissional da Psicoliogia.</string>

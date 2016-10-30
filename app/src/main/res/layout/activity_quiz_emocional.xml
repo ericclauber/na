@@ -34,39 +34,39 @@
         android:layout_gravity="center_horizontal|bottom"
         android:orientation="horizontal">
 
-        <Button
-            android:id="@+id/activity_quiz_mocional_zoom_menos"
-            android:layout_width="0dp"
-            android:layout_height="40dp"
-            android:layout_gravity="bottom"
-            android:layout_marginBottom="2dp"
-            android:layout_marginLeft="2dp"
-            android:layout_marginRight="2dp"
-            android:layout_weight="1"
-            android:background="#01579B"
-            android:elevation="10dp"
-            android:gravity="center_vertical|center_horizontal"
-            android:onClick="onClickZoomMenos"
-            android:text="- A"
-            android:textAllCaps="true"
-            android:textColor="@android:color/white" />
+        <!--<Button-->
+            <!--android:id="@+id/activity_quiz_mocional_zoom_menos"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="40dp"-->
+            <!--android:layout_gravity="bottom"-->
+            <!--android:layout_marginBottom="2dp"-->
+            <!--android:layout_marginLeft="2dp"-->
+            <!--android:layout_marginRight="2dp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:background="#01579B"-->
+            <!--android:elevation="10dp"-->
+            <!--android:gravity="center_vertical|center_horizontal"-->
+            <!--android:onClick="onClickZoomMenos"-->
+            <!--android:text="- A"-->
+            <!--android:textAllCaps="true"-->
+            <!--android:textColor="@android:color/white" />-->
 
-        <Button
-            android:id="@+id/activity_quiz_mocional_zoom_mais"
-            android:layout_width="0dp"
-            android:layout_height="40dp"
-            android:layout_gravity="bottom"
-            android:layout_marginBottom="2dp"
-            android:layout_marginLeft="2dp"
-            android:layout_marginRight="2dp"
-            android:layout_weight="1"
-            android:background="#01579B"
-            android:elevation="10dp"
-            android:gravity="center_vertical|center_horizontal"
-            android:onClick="onClickZoomMais"
-            android:text="+ A"
-            android:textAllCaps="true"
-            android:textColor="@android:color/white" />
+        <!--<Button-->
+            <!--android:id="@+id/activity_quiz_mocional_zoom_mais"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="40dp"-->
+            <!--android:layout_gravity="bottom"-->
+            <!--android:layout_marginBottom="2dp"-->
+            <!--android:layout_marginLeft="2dp"-->
+            <!--android:layout_marginRight="2dp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:background="#01579B"-->
+            <!--android:elevation="10dp"-->
+            <!--android:gravity="center_vertical|center_horizontal"-->
+            <!--android:onClick="onClickZoomMais"-->
+            <!--android:text="+ A"-->
+            <!--android:textAllCaps="true"-->
+            <!--android:textColor="@android:color/white" />-->
 
         <Button
             android:id="@+id/activity_quiz_emocional_botao_salvar"
@@ -81,7 +81,7 @@
             android:elevation="10dp"
             android:gravity="center_vertical|center_horizontal"
             android:onClick="onClickSalvarQuiz"
-            android:text="Salvar quiz"
+            android:text="@string/texto_obter_resultado_quiz"
             android:textAllCaps="true"
             android:textColor="@android:color/white" />
 

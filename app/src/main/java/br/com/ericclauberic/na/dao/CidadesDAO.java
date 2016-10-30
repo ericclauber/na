@@ -26,6 +26,7 @@ public class CidadesDAO {
         this.cidadesDao = getCidadesDAO();
     }
 
+
     // recupera a instancia da tabela de Perguntas em DatabaseHelper
     private Dao<Cidades, Integer> getCidadesDAO() {
         Dao<Cidades, Integer> dao = null;
@@ -37,6 +38,15 @@ public class CidadesDAO {
         }
         return dao;
     }
+    //
+
+    public void refresh(Cidades cidades) {
+        try {
+            cidadesDao.refresh(cidades);
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
 
     //
     public void salvarCidades(Cidades cidades) {
@@ -47,6 +57,7 @@ public class CidadesDAO {
             e.printStackTrace();
         }
     }
+
 
     public List<Cidades> listaTodasCidadesBanco() {
         //    PerguntasQuiz toReturn = null;

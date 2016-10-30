@@ -136,13 +136,24 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
         private RadioButton radioButtonNao;
 
 
-        public QuizViewHolder(View itemView) {
-            super(itemView);
+
+        public QuizViewHolder(final View itemView) {
+                                    super(itemView);
             radioGroup = (RadioGroup) itemView.findViewById(R.id.card_view_radio_group);
             radioButtonSim = (RadioButton) itemView.findViewById(R.id.card_view_radio_button_sim);
             radioButtonAsVezes = (RadioButton) itemView.findViewById(R.id.card_view_radio_button_as_vezes);
             radioButtonNao = (RadioButton) itemView.findViewById(R.id.card_view_radio_button_nao);
             textViewPerguntas = (TextView) itemView.findViewById(R.id.text_view_id_perguntas_quiz);
+
+            radioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
+                @Override
+                public void onCheckedChanged(RadioGroup group, int checkedId) {
+                    if (checkedId == group.getCheckedRadioButtonId()) {
+                        System.out.println("Yahoooooooooooooooooooooooooooooooooooooooooooooooooooooo");
+                    }
+                }
+            });
+
             //
         }
 

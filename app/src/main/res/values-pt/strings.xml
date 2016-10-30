@@ -111,4 +111,5 @@
     <string name="texto_resultado_quiz_activity">Resultado Quiz</string>
     <string name="grupos_telefone_lista">Fone.:</string>
     <string name="grupos_email_lista">E-mail:</string>
+    <string name="texto_obter_resultado_quiz">Obter Resultado</string>
 </resources>
