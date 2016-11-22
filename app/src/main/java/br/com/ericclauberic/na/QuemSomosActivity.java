@@ -1,5 +1,6 @@
 package br.com.ericclauberic.na;
 
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -22,6 +23,10 @@ public class QuemSomosActivity extends AppCompatActivity {
         setContentView(R.layout.activity_quem_somos);
         //textViewZoom = (TextView) findViewById(R.id.text_view_quem_somos);
        // tamanhoTexto = (int) textViewZoom.getTextSize();
+        ActionBar actionBar = getSupportActionBar();
+        actionBar.setTitle(R.string.titulo_texto_quem_somos);
+        actionBar.setDisplayHomeAsUpEnabled(true);
+
         // Admob
         adView = (AdView) findViewById(R.id.quem_somos_activity_admob);
         adView.setAdListener(new ToastListener(this));

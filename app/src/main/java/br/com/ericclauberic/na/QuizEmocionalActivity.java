@@ -3,16 +3,12 @@ package br.com.ericclauberic.na;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
-import android.widget.Button;
-import android.widget.RadioButton;
-import android.widget.Toast;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
@@ -56,7 +52,12 @@ public class QuizEmocionalActivity extends FragmentActivity {
         this.quizRecyclerViewAdapter = new QuizRecyclerViewAdapter();
         recyclerView.setAdapter(quizRecyclerViewAdapter);
 
+        if (savedInstanceState !=null) {
+            recyclerView = savedInstanceState.getParcelable(String.valueOf(quizRecyclerViewAdapter));
+        }
+
     }
+
 
 
     public void onClickSalvarQuiz(View view) {
@@ -139,19 +140,19 @@ public class QuizEmocionalActivity extends FragmentActivity {
     }
 
 
-    public void onClickZoomMenos(View view) {
-
-        Button button = (Button) findViewById(R.id.activity_quiz_mocional_zoom_menos);
-        button.setTextColor(Color.GRAY);
-
-    }
-
-    public void onClickZoomMais(View view) {
-        RadioButton radioButton = (RadioButton) findViewById(R.id.card_view_radio_button_sim);
-        if (radioButton.isChecked()) {
-            Toast.makeText(this, "Zoom mais clicado", Toast.LENGTH_SHORT).show();
-        }
-    }
+//    public void onClickZoomMenos(View view) {
+//
+//        Button button = (Button) findViewById(R.id.activity_quiz_mocional_zoom_menos);
+//        button.setTextColor(Color.GRAY);
+//
+//    }
+//
+//    public void onClickZoomMais(View view) {
+//        RadioButton radioButton = (RadioButton) findViewById(R.id.card_view_radio_button_sim);
+//        if (radioButton.isChecked()) {
+//            Toast.makeText(this, "Zoom mais clicado", Toast.LENGTH_SHORT).show();
+//        }
+//    }
 
     // Antigo, passando a usar método acima.
 //    /**

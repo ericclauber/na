@@ -19,6 +19,7 @@ public class SouNeoroticoActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sou_neorotico);
         actionBar = getSupportActionBar();
+        actionBar.setTitle(R.string.titulo_sou_neurotico);
         actionBar.setDisplayHomeAsUpEnabled(true);
 
         // AdMob
