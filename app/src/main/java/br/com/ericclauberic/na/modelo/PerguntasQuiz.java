@@ -22,9 +22,6 @@ public class PerguntasQuiz {
     @DatabaseField(columnName = "resposta")
     private int resposta;
 
-    @DatabaseField(columnName = "status")
-    private int status = 0;
-
     @DatabaseField(columnName = "respostardobuttonsim")
     private String respostaRdoButtonSim;
 
@@ -81,14 +78,6 @@ public class PerguntasQuiz {
 
     public void setResposta(int resposta) {
         this.resposta = resposta;
-    }
-
-    public int getStatus() {
-        return status;
-    }
-
-    public void setStatus(int status) {
-        this.status = status;
     }
 
     public String getRespostaRdoButtonSim() {

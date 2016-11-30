@@ -54,13 +54,14 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
 
     @Override
     public void onBindViewHolder(final QuizViewHolder holder, final int position) {
-        // Recupera as informações na posição em questão.
-        // final PerguntasQuiz perguntasQuiz = perguntasQuizList.get(holder.getAdapterPosition());
+        // Recupera as informações na posição em questão. OLD
+//        final PerguntasQuiz perguntasQuiz = perguntasQuizList.get(holder.getAdapterPosition());
         //
 
         //
-// Recupera as informações na posição em questão.
+        // Recupera as informações na posição em questão.
         holder.textViewPerguntas.setText(perguntasQuizList.get(holder.getAdapterPosition()).getPergunta());
+
 
         //
         holder.radioButtonSim.setOnClickListener(new View.OnClickListener() {
@@ -90,12 +91,11 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
 
             }
         });
-////
+
 
     }
 
-
-
+    // Atualiza a resposta da lista em determinada posição
     public void atualizaListaPerguntaQuizResposta(int posição, int resposta) {
 
         perguntasQuizList.get(posição).setResposta(resposta);
@@ -146,7 +146,6 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
         private RadioButton radioButtonSim;
         private RadioButton radioButtonAsVezes;
         private RadioButton radioButtonNao;
-
 
 
         public QuizViewHolder(final View itemView) {

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Nov 30 15:36:53 BRT 2016
+#Wed Nov 30 15:55:18 BRT 2016
 210.set=ANDROID_RESOURCE
 282.file=/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/resources-debug.ap_/res/color/abc_search_url_text.xml
 14.set=ANDROID_RESOURCE

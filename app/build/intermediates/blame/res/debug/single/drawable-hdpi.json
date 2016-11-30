@@ -88,12 +88,12 @@
         "source": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png"
     },
     {
-        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_cast_on_2_light.png",
-        "source": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable-hdpi/ic_cast_on_2_light.png"
-    },
-    {
         "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_cast_light.png",
         "source": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable-hdpi/ic_cast_light.png"
+    },
+    {
+        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_cast_on_2_light.png",
+        "source": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable-hdpi/ic_cast_on_2_light.png"
     },
     {
         "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_play_light.png",
