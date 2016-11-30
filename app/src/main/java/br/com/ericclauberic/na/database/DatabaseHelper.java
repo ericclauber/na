@@ -139,6 +139,10 @@ public class DatabaseHelper extends OrmLiteSqliteOpenHelper {
             perguntasQuiz = new PerguntasQuiz();
             perguntasQuiz.setPergunta(perguntasArray[i]);
             perguntasQuiz.setResposta(-1);
+            perguntasQuiz.setRespostaRdoButtonSim("Sim");
+            perguntasQuiz.setRespostaRdoButtonAsVeses("Às vezes");
+            perguntasQuiz.setRespostaRdoButtonNao("Não");
+            perguntasQuiz.setStatus(0);
             perguntasDAO.salvarPerguntas(perguntasQuiz);
         }
     }

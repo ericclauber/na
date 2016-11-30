@@ -72,11 +72,15 @@
             android:screenOrientation="portrait" />
         <activity
             android:name="br.com.ericclauberic.na.ComoFazerQuizActivity"
-            android:parentActivityName="br.com.ericclauberic.na.MainActivity" />
-        <activity android:name="br.com.ericclauberic.na.ResultadoQuizActivity" />
+            android:parentActivityName="br.com.ericclauberic.na.IniciarQuizActivity" />
+        <activity
+            android:name="br.com.ericclauberic.na.ResultadoQuizActivity"
+            android:parentActivityName="br.com.ericclauberic.na.IniciarQuizActivity" />
         <activity
             android:name="br.com.ericclauberic.na.HistoricoQuizActivity"
             android:parentActivityName="br.com.ericclauberic.na.IniciarQuizActivity" />
+        <activity android:name="br.com.ericclauberic.na.EmailActivity" >
+        </activity>
         <activity
             android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
             android:theme="@style/Theme.IAPTheme" />

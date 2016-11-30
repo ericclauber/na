@@ -481,6 +481,8 @@
     <string name="legenda_icone_quem_somos">Who we are?</string>
     <string name="legenda_icone_quiz_emocional">Emotional Quiz</string>
     <string name="legenda_icone_sou_neurotico">Am I Neutotic?</string>
+    <string name="menu_item_compartilhar_main_activity">Share</string>
+    <string name="menu_item_main_feedback">Feedback</string>
     <string name="mr_media_route_button_content_description">Cast</string>
     <string name="mr_media_route_chooser_searching">Searching for devices\u2026</string>
     <string name="mr_media_route_chooser_title">Connect to device</string>
@@ -491,7 +493,6 @@
     <string name="mr_media_route_controller_stop">Stop casting</string>
     <string name="mr_system_route_name">System</string>
     <string name="mr_user_route_category_name">Devices</string>
-    <string name="pergunta_sou_neurotico">Sou uma pessoa neorótica?</string>
     <string name="resposta_sou_neurotico">\n\nSe você respondeu SIM a qualquer uma das perguntas acima, é possível que você seja uma pessoa neurótica. \n\nSe você respondeu SIM a 2 perguntas, então é quase certo que você seja uma pessoa neurótica. \n\nSe você realmente reconhece que é uma pessoa neurótica, apresentamos agora a grande pergunta:</string>
     <string name="sou_neorotico_voce_quer_ajuda">YOU WANT HELP?</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -531,6 +532,8 @@
     <string name="texto_splash_na">Neurotics Anonymous</string>
     <string name="texto_toast_abrir_mapa_grupos_activity">TOUCH IN A GROUP\n TO OPEN ON THE MAP.</string>
     <string name="texto_toast_aplicativo_mapa_grupos_activitya">No application to open\nthe map is installed!</string>
+    <string name="titulo_activity_como_fazer">How to do?</string>
+    <string name="titulo_sou_neurotico">Am I a neurotic person?</string>
     <string name="titulo_texto_quem_somos">Who we Are</string>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>

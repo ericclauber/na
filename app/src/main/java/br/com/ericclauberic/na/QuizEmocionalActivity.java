@@ -56,6 +56,8 @@ public class QuizEmocionalActivity extends FragmentActivity {
             recyclerView = savedInstanceState.getParcelable(String.valueOf(quizRecyclerViewAdapter));
         }
 
+
+
     }
 
 

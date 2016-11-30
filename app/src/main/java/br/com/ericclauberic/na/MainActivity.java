@@ -1,9 +1,12 @@
 package br.com.ericclauberic.na;
 
 import android.content.Intent;
-import android.content.res.Resources;
 import android.os.Bundle;
+import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.ShareActionProvider;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 
 import com.google.android.gms.ads.AdRequest;
@@ -12,7 +15,10 @@ import com.google.android.gms.ads.AdView;
 import br.com.ericclauberic.na.controle.ToastListener;
 
 public class MainActivity extends AppCompatActivity {
-private AdView adView;
+
+    private AdView adView;
+    private ShareActionProvider mShareActionProvider;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -25,22 +31,73 @@ private AdView adView;
         adView.loadAd(adRequest);
 
 
+    }
 
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        //
+
+
+        //
+        //
+
+        getMenuInflater().inflate(R.menu.menu_opcoes_main_activity, menu);
+
+        MenuItem menuItem = menu.findItem(R.id.menu_item_compartilhar_app_main_activity);
+
+        mShareActionProvider = (ShareActionProvider) MenuItemCompat.getActionProvider(menuItem);
+
+
+        setShareIntent(compartilha());
+        return super.onCreateOptionsMenu(menu);
+
+    }
+//
+    public Intent compartilha() {
+        Intent intent = new Intent();
+        intent.setAction(Intent.ACTION_SEND);
+        intent.putExtra(Intent.EXTRA_TEXT, "baixe o app");
+        intent.setType("text/plain");
+        //  startActivity(intent);
+
+        return intent;
+    }
+
+    //
+    private void setShareIntent(Intent intent) {
+        if (mShareActionProvider != null) {
+            mShareActionProvider.setShareIntent(intent);
+        }
+    }
+    //
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+
+            case R.id.menu_item_feedback:
+
+                Intent intent = new Intent(this, EmailActivity.class);
+                startActivity(intent);
+                return true;
+        }
+
+        return super.onOptionsItemSelected(item);
     }
 
     public void onClickQuiz(View view) {
-        Intent intent = new Intent(this,IniciarQuizActivity.class);
+        Intent intent = new Intent(this, IniciarQuizActivity.class);
         startActivity(intent);
     }
 
     public void onClickSobre(View view) {
-        Intent intent = new Intent(this,QuemSomosActivity.class);
+        Intent intent = new Intent(this, QuemSomosActivity.class);
         startActivity(intent);
 
     }
 
     public void onClickSouNeorotico(View view) {
-        Intent intent = new Intent(this,SouNeoroticoActivity.class);
+        Intent intent = new Intent(this, SouNeoroticoActivity.class);
         startActivity(intent);
 
 //        ArrayList<Grupos> gruposList = (ArrayList<Grupos>) new GruposDAO().listaTodosGruposBanco();
@@ -66,8 +123,6 @@ private AdView adView;
 //            Toast.makeText(this,"Nenhum aplicativo para abrir o mapa está instalado!",Toast.LENGTH_SHORT).show();
 //        }
     }
-
-
 
 
     public void onClickGruposTemp(View view) {

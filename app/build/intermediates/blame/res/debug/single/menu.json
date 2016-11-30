@@ -2,5 +2,9 @@
     {
         "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/menu/menu_historico.xml",
         "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/menu/menu_historico.xml"
+    },
+    {
+        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/menu/menu_opcoes_main_activity.xml",
+        "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/menu/menu_opcoes_main_activity.xml"
     }
 ]

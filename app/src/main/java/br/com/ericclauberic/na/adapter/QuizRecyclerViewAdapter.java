@@ -22,7 +22,10 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
 
     Context context;
     //
-    private List<PerguntasQuiz> perguntasQuizList;
+    public List<PerguntasQuiz> perguntasQuizList;
+    private RadioButton lastCheckedRB = null;
+    private int mCheckedId;
+    private int mSelectedPosition;
 
     //
     public QuizRecyclerViewAdapter() {
@@ -34,14 +37,17 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
         this.perguntasQuizList = perguntasQuizList;
     }
 
+
     @Override
-    public QuizViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+    public QuizViewHolder onCreateViewHolder(final ViewGroup parent, int viewType) {
         // Desta forma o card view não pega o match_Parent no layout_width
         //View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.perguntas_card_view, null);
 
         // Assim(false) a view raiz, é usada somente para inflar o outro xml(card_view)
         View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.perguntas_card_view, parent, false);
-        QuizViewHolder quizViewHolder = new QuizViewHolder(view);
+        final QuizViewHolder quizViewHolder = new QuizViewHolder(view);
+
+
         return quizViewHolder;
 
     }
@@ -49,28 +55,29 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
     @Override
     public void onBindViewHolder(final QuizViewHolder holder, final int position) {
         // Recupera as informações na posição em questão.
-        final PerguntasQuiz perguntasQuiz = perguntasQuizList.get(position);
+        // final PerguntasQuiz perguntasQuiz = perguntasQuizList.get(holder.getAdapterPosition());
         //
 
-        // Modifica o texto na View.
+        //
+// Recupera as informações na posição em questão.
+        holder.textViewPerguntas.setText(perguntasQuizList.get(holder.getAdapterPosition()).getPergunta());
 
-        holder.textViewPerguntas.setText(perguntasQuiz.getPergunta());
         //
         holder.radioButtonSim.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
                 //
-                atualizaListaPerguntaQuizResposta(holder.getLayoutPosition(), PerguntasQuiz.RESPOSTA_SIM);
+                atualizaListaPerguntaQuizResposta(holder.getAdapterPosition(), PerguntasQuiz.RESPOSTA_SIM);
 
             }
         });
-
+        //
         holder.radioButtonAsVezes.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
-                atualizaListaPerguntaQuizResposta(holder.getLayoutPosition(), PerguntasQuiz.RESPOSTA_AS_VEZES);
+                atualizaListaPerguntaQuizResposta(holder.getAdapterPosition(), PerguntasQuiz.RESPOSTA_AS_VEZES);
+
 
             }
         });
@@ -79,10 +86,14 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
             @Override
             public void onClick(View v) {
 
-                atualizaListaPerguntaQuizResposta(holder.getLayoutPosition(), PerguntasQuiz.RESPOSTA_NAO);
+                atualizaListaPerguntaQuizResposta(holder.getAdapterPosition(), PerguntasQuiz.RESPOSTA_NAO);
+
             }
         });
+////
+
     }
+
 
 
     public void atualizaListaPerguntaQuizResposta(int posição, int resposta) {
@@ -99,7 +110,7 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
 
     @Override
     public int getItemViewType(int position) {
-        return super.getItemViewType(position);
+        return position;
     }
 
     @Override
@@ -127,6 +138,7 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
         return tamanhoLista;
     }
 
+
     public static class QuizViewHolder extends RecyclerView.ViewHolder {
 
         private TextView textViewPerguntas;
@@ -138,23 +150,14 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
 
 
         public QuizViewHolder(final View itemView) {
-                                    super(itemView);
+            super(itemView);
             radioGroup = (RadioGroup) itemView.findViewById(R.id.card_view_radio_group);
             radioButtonSim = (RadioButton) itemView.findViewById(R.id.card_view_radio_button_sim);
             radioButtonAsVezes = (RadioButton) itemView.findViewById(R.id.card_view_radio_button_as_vezes);
             radioButtonNao = (RadioButton) itemView.findViewById(R.id.card_view_radio_button_nao);
             textViewPerguntas = (TextView) itemView.findViewById(R.id.text_view_id_perguntas_quiz);
 
-            radioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
-                @Override
-                public void onCheckedChanged(RadioGroup group, int checkedId) {
-                    if (checkedId == group.getCheckedRadioButtonId()) {
-                        System.out.println("Yahoooooooooooooooooooooooooooooooooooooooooooooooooooooo");
-                    }
-                }
-            });
 
-            //
         }
 
 

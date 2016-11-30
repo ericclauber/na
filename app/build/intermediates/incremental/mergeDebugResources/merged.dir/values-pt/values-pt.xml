@@ -120,17 +120,19 @@
     <string name="grupos_nome_lista">"Nome: "</string>
     <string name="grupos_telefone_lista">Fone.:</string>
     <string name="historico_quiz_titulo_barra">Histórico Quiz</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
     <string name="legenda_icone_mapa">Encontre um Grupo</string>
     <string name="legenda_icone_quem_somos">Quem somos?</string>
     <string name="legenda_icone_quiz_emocional">Quiz Emocional</string>
     <string name="legenda_icone_sou_neurotico">Sou Neurótico?</string>
+    <string name="menu_item_compartilhar_main_activity">Compartilhar</string>
+    <string name="menu_item_main_feedback">Feedback</string>
     <string msgid="4271159405637008602" name="mr_media_route_button_content_description">"Saída de mídia"</string>
     <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Procurando dispositivos…"</string>
     <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Conectar ao dispositivo"</string>
     <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Desconectar"</string>
     <string msgid="5441529851481176817" name="mr_system_route_name">"Sistema"</string>
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Dispositivos"</string>
-    <string name="pergunta_sou_neurotico">Sou uma pessoa neurótica?</string>
     <string name="resposta_sou_neurotico">\n\nSe você respondeu SIM a qualquer uma das perguntas acima, é possível que você seja uma pessoa neurótica. \n\nSe você respondeu SIM a 2 perguntas, então é quase certo que você seja uma pessoa neurótica. \n\nSe você realmente reconhece que é uma pessoa neurótica, apresentamos agora a grande pergunta:</string>
     <string name="sou_neorotico_voce_quer_ajuda">VOCÊ QUER AJUDA?</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
@@ -168,5 +170,7 @@
     <string name="texto_splash_na">Neuróticos Anônimos</string>
     <string name="texto_toast_abrir_mapa_grupos_activity">" TOQUE EM UM GRUPO\n PARA ABRIR NO MAPA."</string>
     <string name="texto_toast_aplicativo_mapa_grupos_activitya">Nenhum aplicativo para abrir o mapa está instalado!</string>
+    <string name="titulo_activity_como_fazer">Como fazer?</string>
+    <string name="titulo_sou_neurotico">Sou uma pessoa neurótica?</string>
     <string name="titulo_texto_quem_somos">Quem somos</string>
 </resources>

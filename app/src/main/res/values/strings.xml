@@ -4,7 +4,7 @@
     <string name="texto_splash_interpresacao">A matter of interpretation</string>
     <string name="texto_quem_somos">Neuróticos Anônimos é uma Irmandade formada por homens e mulheres que compartilham suas experiências, fortaleza e esperança para resolverem seus problemas emocionais comuns e dessa forma se reabilitarem da doença mental e emocional. \nPara ser membro desta Irmandade basta considerar-se uma pessoa neurótica, ou seja, com perturbações emocionais, e ter o sincero desejo de sarar. \nEm N/A não se cobram taxas nem mensalidades. As despesas de seu funcionamento são pagas com o dinheiro proveniente das contribuições de seus membros. \nNeuróticos Anônimos não está ligada a nenhuma instituição religiosa ou política e não defende nem se opõe a nenhuma causa. Seu objetivo primordial é a transmissão de sua mensagem, através da recuperação de seus membros, aos que necessitam de ajuda para encontrar uma vida feliz, livres da doença mental e emocional. \nAlcoólicos Anônimos bondosamente concedeu permissão a N/A para usar seus Passos e seu Programa, como já tem feito em relação a outras associações de Anônimos. \nDesejamos expressar nossa gratidão a Deus e a Alcoólicos Anônimos por nos terem proporcionado os instrumentos necessários à nossa recuperação, os quais recebemos d’Ele por intermédio deles. * N.R. ( Nota do Revisor) Na maioria dos Países de língua espanhola onde existem Grupos de N/A, a palavra empregada é Comunidade.</string>
     <string name="titulo_texto_quem_somos">Who we Are</string>
-    <string name="pergunta_sou_neurotico">Sou uma pessoa neorótica?</string>
+    <string name="titulo_sou_neurotico">Am I a neurotic person?</string>
     <string name="legenda_icone_sou_neurotico">Am I Neutotic?</string>
     <string name="legenda_icone_quiz_emocional">Emotional Quiz</string>
     <string name="legenda_icone_quem_somos">Who we are?</string>
@@ -157,4 +157,7 @@
     <string name="grupos_telefone_lista">Phone:</string>
     <string name="grupos_email_lista">E-mail:</string>
     <string name="texto_obter_resultado_quiz">Get Result</string>
+    <string name="titulo_activity_como_fazer">How to do?</string>
+    <string name="menu_item_main_feedback">Feedback</string>
+    <string name="menu_item_compartilhar_main_activity">Share</string>
 </resources>

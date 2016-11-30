@@ -52,6 +52,10 @@
         "source": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
     },
     {
+        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/layout/activity_email.xml",
+        "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout/activity_email.xml"
+    },
+    {
         "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/layout/activity_quem_somos.xml",
         "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout/activity_quem_somos.xml"
     },

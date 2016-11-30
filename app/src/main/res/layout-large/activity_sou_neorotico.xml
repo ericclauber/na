@@ -25,13 +25,13 @@
                 android:layout_height="match_parent"
                 android:orientation="vertical">
 
-                <TextView
-                    style="@style/titulos_textos"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:textSize="32sp"
-                    android:textStyle="bold"
-                    android:text="@string/pergunta_sou_neurotico" />
+                <!--<TextView-->
+                    <!--style="@style/titulos_textos"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:textSize="32sp"-->
+                    <!--android:textStyle="bold"-->
+                    <!--android:text="@string/pergunta_sou_neurotico" />-->
 
                 <TextView
                     android:layout_width="match_parent"

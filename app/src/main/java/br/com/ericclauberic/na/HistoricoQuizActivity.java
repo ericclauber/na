@@ -28,6 +28,7 @@ public class HistoricoQuizActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_historico_quiz);
+
         ActionBar actionBar = getSupportActionBar();
         actionBar.setTitle(this.getString(R.string.historico_quiz_titulo_barra));
         actionBar.setDisplayHomeAsUpEnabled(true);

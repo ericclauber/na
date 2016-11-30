@@ -39,6 +39,7 @@
             android:background="#388E3C"
             android:text="@string/texto_como_fazer_quiz"
             android:textSize="60sp"
+            android:textColor="#FFFFFF"
             android:onClick="onClickComoFazer"/>
 
         <Button
@@ -47,6 +48,7 @@
             android:background="#388E3C"
             android:text="@string/texto_historico_quiz"
             android:textSize="60sp"
+            android:textColor="#FFFFFF"
             android:onClick="onClickHistorico"/>
 
     </LinearLayout>

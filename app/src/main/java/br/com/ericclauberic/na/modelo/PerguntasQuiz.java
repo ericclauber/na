@@ -22,6 +22,18 @@ public class PerguntasQuiz {
     @DatabaseField(columnName = "resposta")
     private int resposta;
 
+    @DatabaseField(columnName = "status")
+    private int status = 0;
+
+    @DatabaseField(columnName = "respostardobuttonsim")
+    private String respostaRdoButtonSim;
+
+    @DatabaseField(columnName = "respostardobuttonveses")
+    private String respostaRdoButtonAsVeses;
+
+    @DatabaseField(columnName = "respostardobuttonnao")
+    private String respostaRdoButtonNao;
+
     public PerguntasQuiz() {
     }
 
@@ -30,6 +42,7 @@ public class PerguntasQuiz {
         this.resposta = resposta;
 
     }
+
     //
     //
     private long checkedId = -1;
@@ -68,5 +81,37 @@ public class PerguntasQuiz {
 
     public void setResposta(int resposta) {
         this.resposta = resposta;
+    }
+
+    public int getStatus() {
+        return status;
+    }
+
+    public void setStatus(int status) {
+        this.status = status;
+    }
+
+    public String getRespostaRdoButtonSim() {
+        return respostaRdoButtonSim;
+    }
+
+    public void setRespostaRdoButtonSim(String respostaRdoButtonSim) {
+        this.respostaRdoButtonSim = respostaRdoButtonSim;
+    }
+
+    public String getRespostaRdoButtonAsVeses() {
+        return respostaRdoButtonAsVeses;
+    }
+
+    public void setRespostaRdoButtonAsVeses(String respostaRdoButtonAsVeses) {
+        this.respostaRdoButtonAsVeses = respostaRdoButtonAsVeses;
+    }
+
+    public String getRespostaRdoButtonNao() {
+        return respostaRdoButtonNao;
+    }
+
+    public void setRespostaRdoButtonNao(String respostaRdoButtonNao) {
+        this.respostaRdoButtonNao = respostaRdoButtonNao;
     }
 }

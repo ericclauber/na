@@ -85,9 +85,10 @@ public class GruposEndMapaActivity extends AppCompatActivity implements AdapterV
     }
 
     public void chamaMapa(double latitude, double longitude) {
-        Uri uriIntent = Uri.parse("geo:" + latitude + "," + longitude + "?z=20");
-        //Uri uriIntent = Uri.parse("geo:" + latitude + "," + longitude + "?q=Paróquia+Nossa+Senhora+das+Dores,Fortaleza,CE");
+        //Uri uriIntent = Uri.parse("geo:" + latitude + "," + longitude + "?z=18");
+        Uri uriIntent = Uri.parse("geo:" + latitude + "," + longitude + "?q=Paróquia+Nossa+Senhora+das+Dores,Fortaleza,CE");
         Intent intent = new Intent(Intent.ACTION_VIEW, uriIntent);
+        intent.setData(uriIntent);
         if (intent.resolveActivity(getPackageManager()) != null) {
             startActivity(intent);
         } else {
