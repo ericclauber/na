@@ -33,6 +33,7 @@ public class GruposEndMapaActivity extends AppCompatActivity implements AdapterV
     private ListView listViewGrupos;
     private List<Grupos> gruposLista;
     private AdView adView;
+    private List<Cidades> cidadesList;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -66,6 +67,13 @@ public class GruposEndMapaActivity extends AppCompatActivity implements AdapterV
 //        listViewGrupos.setOnItemClickListener(this);
 
 
+    }
+
+    @Override
+    protected void onSaveInstanceState(Bundle outState) {
+      //  String[] array = cidadesList.;
+      //  outState.putStringArrayList();
+        super.onSaveInstanceState(outState);
     }
 
     @Override
@@ -111,8 +119,8 @@ public class GruposEndMapaActivity extends AppCompatActivity implements AdapterV
         //ArrayAdapter<String> adapterCidade = new ArrayAdapter<String>(context, android.R.layout.simple_spinner_dropdown_item);
         public void onItemSelected(AdapterView<?> parent, View v, int position, long id) {
 
-            List<Cidades> cidadesList = cidadesDAO.listaCidadesPorUF(String.valueOf(parent.getSelectedItem()));
-
+//            List<Cidades> cidadesList = cidadesDAO.listaCidadesPorUF(String.valueOf(parent.getSelectedItem()));
+            cidadesList = cidadesDAO.listaCidadesPorUF(String.valueOf(parent.getSelectedItem()));
             //Adicionando Nomes no ArrayList
 //            for (int i = 0; i < cidadesList.size(); i++) {
 //                Cidades cidades = cidadesList.get(i);

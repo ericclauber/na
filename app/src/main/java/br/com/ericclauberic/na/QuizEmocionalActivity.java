@@ -27,6 +27,7 @@ public class QuizEmocionalActivity extends FragmentActivity {
     private AdView adView;
     private RecyclerView recyclerView;
     QuizRecyclerViewAdapter quizRecyclerViewAdapter;
+    public static final String STATE_RECYCLER = "recycler";
     private Context context;
 
     @Override
@@ -52,15 +53,19 @@ public class QuizEmocionalActivity extends FragmentActivity {
         this.quizRecyclerViewAdapter = new QuizRecyclerViewAdapter();
         recyclerView.setAdapter(quizRecyclerViewAdapter);
 
-        if (savedInstanceState !=null) {
+        if (savedInstanceState != null) {
             recyclerView = savedInstanceState.getParcelable(String.valueOf(quizRecyclerViewAdapter));
         }
 
 
-
     }
 
-
+//    @Override
+//    protected void onSaveInstanceState(Bundle outState) {
+//
+//        outState.putParcelable(STATE_RECYCLER, (Parcelable) quizRecyclerViewAdapter);
+//        super.onSaveInstanceState(outState);
+//    }
 
     public void onClickSalvarQuiz(View view) {
 
