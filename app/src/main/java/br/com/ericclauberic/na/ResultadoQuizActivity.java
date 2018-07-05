@@ -42,7 +42,6 @@ public class ResultadoQuizActivity extends AppCompatActivity {
 
     }
 
-
     public String dicaResultado(int pontuacao) {
         String dica = "";
         if (pontuacao <= 25) {
@@ -93,6 +92,4 @@ public class ResultadoQuizActivity extends AppCompatActivity {
         chamaAdMobIntertitial();
         super.onPause();
     }
-
-
 } // FIM

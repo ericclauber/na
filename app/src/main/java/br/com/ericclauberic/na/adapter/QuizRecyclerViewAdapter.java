@@ -128,13 +128,14 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
 
     @Override
     public int getItemCount() {
+
         int tamanhoLista;
+
         if (perguntasQuizList == null || perguntasQuizList.isEmpty()) {
             tamanhoLista = 0;
         } else {
             tamanhoLista = this.perguntasQuizList.size();
         }
-
         return tamanhoLista;
     }
 
@@ -147,7 +148,6 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
         private RadioButton radioButtonAsVezes;
         private RadioButton radioButtonNao;
 
-
         public QuizViewHolder(final View itemView) {
             super(itemView);
             radioGroup = (RadioGroup) itemView.findViewById(R.id.card_view_radio_group);
@@ -155,11 +155,6 @@ public class QuizRecyclerViewAdapter extends RecyclerView.Adapter<QuizRecyclerVi
             radioButtonAsVezes = (RadioButton) itemView.findViewById(R.id.card_view_radio_button_as_vezes);
             radioButtonNao = (RadioButton) itemView.findViewById(R.id.card_view_radio_button_nao);
             textViewPerguntas = (TextView) itemView.findViewById(R.id.text_view_id_perguntas_quiz);
-
-
         }
-
-
     }
-
 }

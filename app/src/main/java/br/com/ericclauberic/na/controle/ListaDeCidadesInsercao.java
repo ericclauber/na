@@ -58,6 +58,4 @@ public class ListaDeCidadesInsercao {
 
         return cidadesLista;
     }
-
-
 }
