@@ -8,22 +8,6 @@
         "source": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/layout-large/activity_quiz_emocional.xml"
     },
     {
-        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/layout-large-v4/grupos_adapter_lista.xml",
-        "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout-large/grupos_adapter_lista.xml"
-    },
-    {
-        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/layout-large-v4/activity_sou_neorotico.xml",
-        "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout-large/activity_sou_neorotico.xml"
-    },
-    {
-        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/layout-large-v4/activity_main.xml",
-        "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout-large/activity_main.xml"
-    },
-    {
-        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/layout-large-v4/activity_quiz_emocional.xml",
-        "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout-large/activity_quiz_emocional.xml"
-    },
-    {
         "merged": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/build/intermediates/res/merged/debug/layout-large-v4/activity_sou_neorotico.xml",
         "source": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/layout-large/activity_sou_neorotico.xml"
     },
@@ -36,32 +20,12 @@
         "source": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/layout-large/activity_main.xml"
     },
     {
-        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/layout-large-v4/perguntas_card_view.xml",
-        "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout-large/perguntas_card_view.xml"
-    },
-    {
-        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/layout-large-v4/activity_iniciar_quiz.xml",
-        "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout-large/activity_iniciar_quiz.xml"
-    },
-    {
         "merged": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/build/intermediates/res/merged/debug/layout-large-v4/grupos_adapter_lista.xml",
         "source": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/layout-large/grupos_adapter_lista.xml"
     },
     {
-        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/layout-large-v4/activity_splash.xml",
-        "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout-large/activity_splash.xml"
-    },
-    {
-        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/layout-large-v4/historico_quiz_adapter_lista.xml",
-        "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout-large/historico_quiz_adapter_lista.xml"
-    },
-    {
         "merged": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/build/intermediates/res/merged/debug/layout-large-v4/perguntas_card_view.xml",
         "source": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/layout-large/perguntas_card_view.xml"
-    },
-    {
-        "merged": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/res/merged/debug/layout-large-v4/activity_grupos_end_mapa.xml",
-        "source": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/layout-large/activity_grupos_end_mapa.xml"
     },
     {
         "merged": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/build/intermediates/res/merged/debug/layout-large-v4/activity_iniciar_quiz.xml",

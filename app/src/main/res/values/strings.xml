@@ -117,7 +117,7 @@
     <string name="como_fazer_quiz_regra2">2- Selecione "Sim", se o item for verdadeiro para você;\n   Selecione "Não" se o item não for verdadeiro para você;\n   Selecione "Às vezes", se o item for verdadeiro para você apenas de vez em quando.</string>
     <string name="como_fazer_quiz_curioso">Se estiver curioso para saber o resultado. Seja HONESTO consigo!</string>
     <string name="como_fazer_quiz_p2">Ninguém precisa ficar sabendo, apenas a pessoa interessada pode se colocar no gráfico, para seu próprio benefício, desde que seja o seu desejo.</string>
-    <string name="textView_pontuacao">Score:</string>
+    <string name="textView_pontuacao">Score</string>
     <string name="texto_pontuacao_menor25">Alerta!\n\nSugerimos procurar um grupo próximo de você  com urgência.\n\nEsta dor \"abstrata\" que você sente por dentro, nós a conhecemos bem, e podemos ajudar, não resista, venha.\n\nA irmandade N/A está de braços abertos esperando por você.\n\nOu sugerimos também que procure um profissional da Psicologia.</string>
     <string name="texto_pontuacao_entre25e50">Alerta! Pontuação ainda baixa.\n\nSugerimos procurar um grupo próximo de você.\n\nEsta dor \"abstrata\" que você sente por dentro, nós a conhecemos bem, e podemos ajudar, não resista, venha.\nA irmandade N/A está de braços abertos esperando por você.\n\nOu sugerimos também que procure um profissional da Psicologia.</string>
     <string name="textView_sim_cardview">Yes</string>

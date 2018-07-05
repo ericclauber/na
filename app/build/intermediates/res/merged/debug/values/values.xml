@@ -258,6 +258,7 @@
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorGreen1">#61AF66</color>
     <color name="colorGreenDefault">#388E3C</color>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
@@ -630,7 +631,7 @@
     <string name="textView_as_vezes_cardview">Sometimes</string>
     <string name="textView_data_historico">Date</string>
     <string name="textView_nao_cardview">No</string>
-    <string name="textView_pontuacao">Score:</string>
+    <string name="textView_pontuacao">Score</string>
     <string name="textView_sim_cardview">Yes</string>
     <string name="text_nada_excluir_historico_activity">Nothing to exclude</string>
     <string name="texto_alert_responder_quiz">To answer.</string>

@@ -21,7 +21,7 @@
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:layout_weight="1"
-            android:textColor="@android:color/black"
+            android:textColor="@android:color/white"
             android:textSize="20dp"/>
 
         <TextView
@@ -30,7 +30,7 @@
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:layout_weight="1"
-            android:textColor="@android:color/black"
+            android:textColor="@android:color/white"
             android:textSize="20dp"/>
 
 

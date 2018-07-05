@@ -139,7 +139,7 @@
     <string name="textView_as_vezes_cardview">Às vezes</string>
     <string name="textView_data_historico">Data</string>
     <string name="textView_nao_cardview">Não</string>
-    <string name="textView_pontuacao">Pontuação:</string>
+    <string name="textView_pontuacao">Pontuação</string>
     <string name="textView_sim_cardview">Sim</string>
     <string name="text_nada_excluir_historico_activity">Nada a excluir!</string>
     <string name="texto_alert_responder_quiz">Responder.</string>

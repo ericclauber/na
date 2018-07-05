@@ -1,2330 +1,5 @@
 [
     {
-        "outputFile": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 105,
-                    "endLine": 53,
-                    "endColumn": 19,
-                    "endOffset": 4800
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 3780,
-                        "endLine": 67,
-                        "endColumn": 19,
-                        "endOffset": 8475
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 54,
-                    "startColumn": 4,
-                    "startOffset": 4805,
-                    "endColumn": 119,
-                    "endOffset": 4920
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 119,
-                        "endOffset": 170
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 55,
-                    "startColumn": 4,
-                    "startOffset": 4925,
-                    "endColumn": 107,
-                    "endOffset": 5028
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 175,
-                        "endColumn": 107,
-                        "endOffset": 278
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 56,
-                    "startColumn": 4,
-                    "startOffset": 5033,
-                    "endColumn": 122,
-                    "endOffset": 5151
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 283,
-                        "endColumn": 122,
-                        "endOffset": 401
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 57,
-                    "startColumn": 4,
-                    "startOffset": 5156,
-                    "endColumn": 105,
-                    "endOffset": 5257
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 406,
-                        "endColumn": 105,
-                        "endOffset": 507
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 58,
-                    "startColumn": 4,
-                    "startOffset": 5262,
-                    "endColumn": 106,
-                    "endOffset": 5364
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 512,
-                        "endColumn": 106,
-                        "endOffset": 614
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 59,
-                    "startColumn": 4,
-                    "startOffset": 5369,
-                    "endColumn": 88,
-                    "endOffset": 5453
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 619,
-                        "endColumn": 88,
-                        "endOffset": 703
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 60,
-                    "startColumn": 4,
-                    "startOffset": 5458,
-                    "endColumn": 100,
-                    "endOffset": 5554
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 708,
-                        "endColumn": 100,
-                        "endOffset": 804
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 61,
-                    "startColumn": 4,
-                    "startOffset": 5559,
-                    "endColumn": 117,
-                    "endOffset": 5672
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 809,
-                        "endColumn": 117,
-                        "endOffset": 922
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 62,
-                    "startColumn": 4,
-                    "startOffset": 5677,
-                    "endColumn": 82,
-                    "endOffset": 5755
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 927,
-                        "endColumn": 82,
-                        "endOffset": 1005
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 63,
-                    "startColumn": 4,
-                    "startOffset": 5760,
-                    "endColumn": 79,
-                    "endOffset": 5835
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1010,
-                        "endColumn": 79,
-                        "endOffset": 1085
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 64,
-                    "startColumn": 4,
-                    "startOffset": 5840,
-                    "endColumn": 86,
-                    "endOffset": 5922
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1090,
-                        "endColumn": 86,
-                        "endOffset": 1172
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 65,
-                    "startColumn": 4,
-                    "startOffset": 5927,
-                    "endColumn": 106,
-                    "endOffset": 6029
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1177,
-                        "endColumn": 106,
-                        "endOffset": 1279
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 66,
-                    "startColumn": 4,
-                    "startOffset": 6034,
-                    "endColumn": 111,
-                    "endOffset": 6141
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1284,
-                        "endColumn": 111,
-                        "endOffset": 1391
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 67,
-                    "startColumn": 4,
-                    "startOffset": 6146,
-                    "endColumn": 101,
-                    "endOffset": 6243
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1396,
-                        "endColumn": 101,
-                        "endOffset": 1493
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 68,
-                    "startColumn": 4,
-                    "startOffset": 6248,
-                    "endColumn": 107,
-                    "endOffset": 6351
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1498,
-                        "endColumn": 107,
-                        "endOffset": 1601
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 69,
-                    "startColumn": 4,
-                    "startOffset": 6356,
-                    "endColumn": 106,
-                    "endOffset": 6458
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1606,
-                        "endColumn": 106,
-                        "endOffset": 1708
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 70,
-                    "startColumn": 4,
-                    "startOffset": 6463,
-                    "endColumn": 109,
-                    "endOffset": 6568
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1713,
-                        "endColumn": 109,
-                        "endOffset": 1818
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 71,
-                    "startColumn": 4,
-                    "startOffset": 6573,
-                    "endColumn": 124,
-                    "endOffset": 6693
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1823,
-                        "endColumn": 124,
-                        "endOffset": 1943
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 72,
-                    "startColumn": 4,
-                    "startOffset": 6698,
-                    "endColumn": 99,
-                    "endOffset": 6793
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1948,
-                        "endColumn": 99,
-                        "endOffset": 2043
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 73,
-                    "startColumn": 4,
-                    "startOffset": 6798,
-                    "endColumn": 56,
-                    "endOffset": 6850
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 56,
-                        "endOffset": 107
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 74,
-                    "startColumn": 4,
-                    "startOffset": 6855,
-                    "endColumn": 189,
-                    "endOffset": 7040
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 476,
-                        "endColumn": 193,
-                        "endOffset": 665
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 75,
-                    "startColumn": 4,
-                    "startOffset": 7045,
-                    "endColumn": 180,
-                    "endOffset": 7221
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 2605,
-                        "endColumn": 184,
-                        "endOffset": 2785
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 76,
-                    "startColumn": 4,
-                    "startOffset": 7226,
-                    "endColumn": 115,
-                    "endOffset": 7337
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 2290,
-                        "endColumn": 115,
-                        "endOffset": 2401
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 77,
-                    "startColumn": 4,
-                    "startOffset": 7342,
-                    "endColumn": 279,
-                    "endOffset": 7617
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 4701,
-                        "endColumn": 283,
-                        "endOffset": 4980
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 78,
-                    "startColumn": 4,
-                    "startOffset": 7622,
-                    "endColumn": 129,
-                    "endOffset": 7747
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 2029,
-                        "endColumn": 129,
-                        "endOffset": 2154
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 79,
-                    "startColumn": 4,
-                    "startOffset": 7752,
-                    "endColumn": 179,
-                    "endOffset": 7927
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1845,
-                        "endColumn": 183,
-                        "endOffset": 2024
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 80,
-                    "startColumn": 4,
-                    "startOffset": 7932,
-                    "endColumn": 126,
-                    "endOffset": 8054
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1718,
-                        "endColumn": 126,
-                        "endOffset": 1840
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 81,
-                    "startColumn": 4,
-                    "startOffset": 8059,
-                    "endColumn": 170,
-                    "endOffset": 8225
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 827,
-                        "endColumn": 174,
-                        "endOffset": 997
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 82,
-                    "startColumn": 4,
-                    "startOffset": 8230,
-                    "endColumn": 132,
-                    "endOffset": 8358
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1585,
-                        "endColumn": 132,
-                        "endOffset": 1713
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 83,
-                    "startColumn": 4,
-                    "startOffset": 8363,
-                    "endColumn": 224,
-                    "endOffset": 8583
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 1131,
-                        "endColumn": 228,
-                        "endOffset": 1355
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 84,
-                    "startColumn": 4,
-                    "startOffset": 8588,
-                    "endColumn": 220,
-                    "endOffset": 8804
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 1360,
-                        "endColumn": 224,
-                        "endOffset": 1580
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 85,
-                    "startColumn": 4,
-                    "startOffset": 8809,
-                    "endColumn": 128,
-                    "endOffset": 8933
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 1002,
-                        "endColumn": 128,
-                        "endOffset": 1126
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 86,
-                    "startColumn": 4,
-                    "startOffset": 8938,
-                    "endColumn": 175,
-                    "endOffset": 9109
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 3566,
-                        "endColumn": 175,
-                        "endOffset": 3737
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 87,
-                    "startColumn": 4,
-                    "startOffset": 9114,
-                    "endColumn": 122,
-                    "endOffset": 9232
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 3443,
-                        "endColumn": 122,
-                        "endOffset": 3561
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 88,
-                    "startColumn": 4,
-                    "startOffset": 9237,
-                    "endColumn": 156,
-                    "endOffset": 9389
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 670,
-                        "endColumn": 156,
-                        "endOffset": 822
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 89,
-                    "startColumn": 4,
-                    "startOffset": 9394,
-                    "endColumn": 177,
-                    "endOffset": 9567
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 3265,
-                        "endColumn": 177,
-                        "endOffset": 3438
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 90,
-                    "startColumn": 4,
-                    "startOffset": 9572,
-                    "endColumn": 118,
-                    "endOffset": 9686
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 3146,
-                        "endColumn": 118,
-                        "endOffset": 3260
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 91,
-                    "startColumn": 4,
-                    "startOffset": 9691,
-                    "endColumn": 170,
-                    "endOffset": 9857
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 305,
-                        "endColumn": 170,
-                        "endOffset": 471
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 92,
-                    "startColumn": 4,
-                    "startOffset": 9862,
-                    "endColumn": 134,
-                    "endOffset": 9992
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 134,
-                        "endOffset": 300
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 93,
-                    "startColumn": 4,
-                    "startOffset": 9997,
-                    "endColumn": 169,
-                    "endOffset": 10162
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 4,
-                        "startOffset": 5107,
-                        "endColumn": 169,
-                        "endOffset": 5272
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 94,
-                    "startColumn": 4,
-                    "startOffset": 10167,
-                    "endColumn": 121,
-                    "endOffset": 10284
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 4,
-                        "startOffset": 4985,
-                        "endColumn": 121,
-                        "endOffset": 5102
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 95,
-                    "startColumn": 4,
-                    "startOffset": 10289,
-                    "endColumn": 149,
-                    "endOffset": 10434
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 3742,
-                        "endColumn": 149,
-                        "endOffset": 3887
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 96,
-                    "startColumn": 4,
-                    "startOffset": 10439,
-                    "endColumn": 274,
-                    "endOffset": 10709
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 4010,
-                        "endColumn": 278,
-                        "endOffset": 4284
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 97,
-                    "startColumn": 4,
-                    "startOffset": 10714,
-                    "endColumn": 117,
-                    "endOffset": 10827
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 3892,
-                        "endColumn": 117,
-                        "endOffset": 4005
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 98,
-                    "startColumn": 4,
-                    "startOffset": 10832,
-                    "endColumn": 109,
-                    "endOffset": 10937
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 4289,
-                        "endColumn": 109,
-                        "endOffset": 4394
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 99,
-                    "startColumn": 4,
-                    "startOffset": 10942,
-                    "endColumn": 194,
-                    "endOffset": 11132
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 2406,
-                        "endColumn": 198,
-                        "endOffset": 2600
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 100,
-                    "startColumn": 4,
-                    "startOffset": 11137,
-                    "endColumn": 130,
-                    "endOffset": 11263
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 2159,
-                        "endColumn": 130,
-                        "endOffset": 2285
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 101,
-                    "startColumn": 4,
-                    "startOffset": 11268,
-                    "endColumn": 215,
-                    "endOffset": 11479
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 2926,
-                        "endColumn": 219,
-                        "endOffset": 3141
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 102,
-                    "startColumn": 4,
-                    "startOffset": 11484,
-                    "endColumn": 135,
-                    "endOffset": 11615
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 2790,
-                        "endColumn": 135,
-                        "endOffset": 2921
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 103,
-                    "startColumn": 4,
-                    "startOffset": 11620,
-                    "endColumn": 97,
-                    "endOffset": 11713
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 4603,
-                        "endColumn": 97,
-                        "endOffset": 4696
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 104,
-                    "startColumn": 4,
-                    "startOffset": 11718,
-                    "endColumn": 89,
-                    "endOffset": 11803
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 4399,
-                        "endColumn": 89,
-                        "endOffset": 4484
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 105,
-                    "startColumn": 4,
-                    "startOffset": 11808,
-                    "endColumn": 113,
-                    "endOffset": 11917
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values-pt/common_strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 4489,
-                        "endColumn": 113,
-                        "endOffset": 4598
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 106,
-                    "startColumn": 4,
-                    "startOffset": 11922,
-                    "endColumn": 116,
-                    "endOffset": 12034
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 73,
-                        "startColumn": 4,
-                        "startOffset": 9327,
-                        "endColumn": 116,
-                        "endOffset": 9439
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 107,
-                    "startColumn": 4,
-                    "startOffset": 12039,
-                    "endColumn": 243,
-                    "endOffset": 12278
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 68,
-                        "startColumn": 4,
-                        "startOffset": 8480,
-                        "endColumn": 243,
-                        "endOffset": 8719
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 108,
-                    "startColumn": 4,
-                    "startOffset": 12283,
-                    "endColumn": 190,
-                    "endOffset": 12469
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 69,
-                        "startColumn": 4,
-                        "startOffset": 8724,
-                        "endColumn": 190,
-                        "endOffset": 8910
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 109,
-                    "startColumn": 4,
-                    "startOffset": 12474,
-                    "endColumn": 88,
-                    "endOffset": 12558
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 70,
-                        "startColumn": 4,
-                        "startOffset": 8915,
-                        "endColumn": 88,
-                        "endOffset": 8999
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 110,
-                    "startColumn": 4,
-                    "startOffset": 12563,
-                    "endColumn": 69,
-                    "endOffset": 12628
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 71,
-                        "startColumn": 4,
-                        "startOffset": 9004,
-                        "endColumn": 69,
-                        "endOffset": 9069
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 111,
-                    "startColumn": 4,
-                    "startOffset": 12633,
-                    "endColumn": 252,
-                    "endOffset": 12881
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 72,
-                        "startColumn": 4,
-                        "startOffset": 9074,
-                        "endColumn": 252,
-                        "endOffset": 9322
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 112,
-                    "startColumn": 4,
-                    "startOffset": 12886,
-                    "endColumn": 57,
-                    "endOffset": 12939
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 106,
-                        "startColumn": 4,
-                        "startOffset": 13128,
-                        "endColumn": 57,
-                        "endOffset": 13181
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 113,
-                    "startColumn": 4,
-                    "startOffset": 12944,
-                    "endColumn": 53,
-                    "endOffset": 12993
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 105,
-                        "startColumn": 4,
-                        "startOffset": 13074,
-                        "endColumn": 53,
-                        "endOffset": 13123
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 114,
-                    "startColumn": 4,
-                    "startOffset": 12998,
-                    "endColumn": 58,
-                    "endOffset": 13052
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 107,
-                        "startColumn": 4,
-                        "startOffset": 13186,
-                        "endColumn": 58,
-                        "endOffset": 13240
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 115,
-                    "startColumn": 4,
-                    "startOffset": 13057,
-                    "endColumn": 54,
-                    "endOffset": 13107
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 112,
-                        "startColumn": 4,
-                        "startOffset": 13487,
-                        "endColumn": 54,
-                        "endOffset": 13537
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 116,
-                    "startColumn": 4,
-                    "startOffset": 13112,
-                    "endColumn": 58,
-                    "endOffset": 13166
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 104,
-                        "startColumn": 4,
-                        "startOffset": 13015,
-                        "endColumn": 58,
-                        "endOffset": 13069
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 117,
-                    "startColumn": 4,
-                    "startOffset": 13171,
-                    "endColumn": 54,
-                    "endOffset": 13221
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 108,
-                        "startColumn": 4,
-                        "startOffset": 13245,
-                        "endColumn": 54,
-                        "endOffset": 13295
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 118,
-                    "startColumn": 4,
-                    "startOffset": 13226,
-                    "endColumn": 56,
-                    "endOffset": 13278
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 109,
-                        "startColumn": 4,
-                        "startOffset": 13300,
-                        "endColumn": 56,
-                        "endOffset": 13352
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 119,
-                    "startColumn": 4,
-                    "startOffset": 13283,
-                    "endColumn": 54,
-                    "endOffset": 13333
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 103,
-                        "startColumn": 4,
-                        "startOffset": 12960,
-                        "endColumn": 54,
-                        "endOffset": 13010
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 120,
-                    "startColumn": 4,
-                    "startOffset": 13338,
-                    "endColumn": 56,
-                    "endOffset": 13390
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 111,
-                        "startColumn": 4,
-                        "startOffset": 13430,
-                        "endColumn": 56,
-                        "endOffset": 13482
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 121,
-                    "startColumn": 4,
-                    "startOffset": 13395,
-                    "endColumn": 70,
-                    "endOffset": 13461
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 83,
-                        "startColumn": 4,
-                        "startOffset": 11306,
-                        "endColumn": 70,
-                        "endOffset": 11372
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 122,
-                    "startColumn": 4,
-                    "startOffset": 13466,
-                    "endColumn": 90,
-                    "endOffset": 13552
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 117,
-                        "startColumn": 4,
-                        "startOffset": 13819,
-                        "endColumn": 90,
-                        "endOffset": 13905
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 123,
-                    "startColumn": 4,
-                    "startOffset": 13557,
-                    "endColumn": 64,
-                    "endOffset": 13617
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 3707,
-                        "endColumn": 64,
-                        "endOffset": 3767
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 124,
-                    "startColumn": 4,
-                    "startOffset": 13622,
-                    "endColumn": 64,
-                    "endOffset": 13682
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 3212,
-                        "endColumn": 64,
-                        "endOffset": 3272
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 125,
-                    "startColumn": 4,
-                    "startOffset": 13687,
-                    "endColumn": 71,
-                    "endOffset": 13754
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 3140,
-                        "endColumn": 71,
-                        "endOffset": 3207
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 126,
-                    "startColumn": 4,
-                    "startOffset": 13759,
-                    "endColumn": 70,
-                    "endOffset": 13825
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 3069,
-                        "endColumn": 70,
-                        "endOffset": 3135
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 127,
-                    "startColumn": 4,
-                    "startOffset": 13830,
-                    "endColumn": 77,
-                    "endOffset": 13903
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 116,
-                        "startColumn": 4,
-                        "startOffset": 13741,
-                        "endColumn": 77,
-                        "endOffset": 13814
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 128,
-                    "startColumn": 4,
-                    "startOffset": 13908,
-                    "endColumn": 60,
-                    "endOffset": 13964
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 115,
-                        "startColumn": 4,
-                        "startOffset": 13680,
-                        "endColumn": 60,
-                        "endOffset": 13736
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 129,
-                    "startColumn": 4,
-                    "startOffset": 13969,
-                    "endColumn": 114,
-                    "endOffset": 14079
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 293,
-                        "endColumn": 114,
-                        "endOffset": 403
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 130,
-                    "startColumn": 4,
-                    "startOffset": 14084,
-                    "endColumn": 115,
-                    "endOffset": 14195
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 408,
-                        "endColumn": 115,
-                        "endOffset": 519
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 131,
-                    "startColumn": 4,
-                    "startOffset": 14200,
-                    "endColumn": 110,
-                    "endOffset": 14306
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 524,
-                        "endColumn": 110,
-                        "endOffset": 630
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 132,
-                    "startColumn": 4,
-                    "startOffset": 14311,
-                    "endColumn": 105,
-                    "endOffset": 14412
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 635,
-                        "endColumn": 105,
-                        "endOffset": 736
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 133,
-                    "startColumn": 4,
-                    "startOffset": 14417,
-                    "endColumn": 86,
-                    "endOffset": 14499
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 741,
-                        "endColumn": 86,
-                        "endOffset": 823
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 134,
-                    "startColumn": 4,
-                    "startOffset": 14504,
-                    "endColumn": 98,
-                    "endOffset": 14598
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 828,
-                        "endColumn": 98,
-                        "endOffset": 922
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 135,
-                    "startColumn": 4,
-                    "startOffset": 14603,
-                    "endColumn": 354,
-                    "endOffset": 14953
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 3277,
-                        "endColumn": 354,
-                        "endOffset": 3627
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 136,
-                    "startColumn": 4,
-                    "startOffset": 14958,
-                    "endColumn": 74,
-                    "endOffset": 15028
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 3632,
-                        "endColumn": 74,
-                        "endOffset": 3702
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 137,
-                    "startColumn": 4,
-                    "startOffset": 15033,
-                    "endColumn": 100,
-                    "endOffset": 15129
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 2048,
-                        "endColumn": 100,
-                        "endOffset": 2144
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 138,
-                    "startColumn": 4,
-                    "startOffset": 15134,
-                    "endColumn": 63,
-                    "endOffset": 15193
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 80,
-                        "startColumn": 4,
-                        "startOffset": 11122,
-                        "endColumn": 63,
-                        "endOffset": 11181
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 139,
-                    "startColumn": 4,
-                    "startOffset": 15198,
-                    "endColumn": 56,
-                    "endOffset": 15250
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 84,
-                        "startColumn": 4,
-                        "startOffset": 11377,
-                        "endColumn": 56,
-                        "endOffset": 11429
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 140,
-                    "startColumn": 4,
-                    "startOffset": 15255,
-                    "endColumn": 53,
-                    "endOffset": 15304
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 81,
-                        "startColumn": 4,
-                        "startOffset": 11186,
-                        "endColumn": 53,
-                        "endOffset": 11235
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 141,
-                    "startColumn": 4,
-                    "startOffset": 15309,
-                    "endColumn": 57,
-                    "endOffset": 15362
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 74,
-                        "startColumn": 4,
-                        "startOffset": 9444,
-                        "endColumn": 57,
-                        "endOffset": 9497
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 142,
-                    "startColumn": 4,
-                    "startOffset": 15367,
-                    "endColumn": 53,
-                    "endOffset": 15416
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 79,
-                        "startColumn": 4,
-                        "startOffset": 11068,
-                        "endColumn": 53,
-                        "endOffset": 11117
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 143,
-                    "startColumn": 4,
-                    "startOffset": 15421,
-                    "endColumn": 80,
-                    "endOffset": 15497
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 92,
-                        "startColumn": 4,
-                        "startOffset": 11926,
-                        "endColumn": 80,
-                        "endOffset": 12002
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 144,
-                    "startColumn": 4,
-                    "startOffset": 15502,
-                    "endColumn": 65,
-                    "endOffset": 15563
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 82,
-                        "startColumn": 4,
-                        "startOffset": 11240,
-                        "endColumn": 65,
-                        "endOffset": 11301
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 145,
-                    "startColumn": 4,
-                    "startOffset": 15568,
-                    "endColumn": 82,
-                    "endOffset": 15646
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 94,
-                        "startColumn": 4,
-                        "startOffset": 12098,
-                        "endColumn": 82,
-                        "endOffset": 12176
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 146,
-                    "startColumn": 4,
-                    "startOffset": 15651,
-                    "endColumn": 58,
-                    "endOffset": 15705
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 99,
-                        "startColumn": 4,
-                        "startOffset": 12557,
-                        "endColumn": 58,
-                        "endOffset": 12611
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 147,
-                    "startColumn": 4,
-                    "startOffset": 15710,
-                    "endColumn": 60,
-                    "endOffset": 15766
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 86,
-                        "startColumn": 4,
-                        "startOffset": 11494,
-                        "endColumn": 60,
-                        "endOffset": 11550
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 148,
-                    "startColumn": 4,
-                    "startOffset": 15771,
-                    "endColumn": 75,
-                    "endOffset": 15842
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 90,
-                        "startColumn": 4,
-                        "startOffset": 11779,
-                        "endColumn": 75,
-                        "endOffset": 11850
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 149,
-                    "startColumn": 4,
-                    "startOffset": 15847,
-                    "endColumn": 108,
-                    "endOffset": 15951
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 100,
-                        "startColumn": 4,
-                        "startOffset": 12616,
-                        "endColumn": 108,
-                        "endOffset": 12720
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 150,
-                    "startColumn": 4,
-                    "startOffset": 15956,
-                    "endColumn": 70,
-                    "endOffset": 16022
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 91,
-                        "startColumn": 4,
-                        "startOffset": 11855,
-                        "endColumn": 70,
-                        "endOffset": 11921
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 151,
-                    "startColumn": 4,
-                    "startOffset": 16027,
-                    "endColumn": 84,
-                    "endOffset": 16107
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 98,
-                        "startColumn": 4,
-                        "startOffset": 12472,
-                        "endColumn": 84,
-                        "endOffset": 12552
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 152,
-                    "startColumn": 4,
-                    "startOffset": 16112,
-                    "endColumn": 120,
-                    "endOffset": 16228
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 97,
-                        "startColumn": 4,
-                        "startOffset": 12351,
-                        "endColumn": 120,
-                        "endOffset": 12467
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 153,
-                    "startColumn": 4,
-                    "startOffset": 16233,
-                    "endColumn": 80,
-                    "endOffset": 16309
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 88,
-                        "startColumn": 4,
-                        "startOffset": 11619,
-                        "endColumn": 80,
-                        "endOffset": 11695
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 154,
-                    "startColumn": 4,
-                    "startOffset": 16314,
-                    "endColumn": 90,
-                    "endOffset": 16400
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 93,
-                        "startColumn": 4,
-                        "startOffset": 12007,
-                        "endColumn": 90,
-                        "endOffset": 12093
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 155,
-                    "startColumn": 4,
-                    "startOffset": 16405,
-                    "endColumn": 63,
-                    "endOffset": 16464
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 87,
-                        "startColumn": 4,
-                        "startOffset": 11555,
-                        "endColumn": 63,
-                        "endOffset": 11614
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 156,
-                    "startColumn": 4,
-                    "startOffset": 16469,
-                    "endColumn": 59,
-                    "endOffset": 16524
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 85,
-                        "startColumn": 4,
-                        "startOffset": 11434,
-                        "endColumn": 59,
-                        "endOffset": 11489
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 157,
-                    "startColumn": 4,
-                    "startOffset": 16529,
-                    "endColumn": 72,
-                    "endOffset": 16597
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 95,
-                        "startColumn": 4,
-                        "startOffset": 12181,
-                        "endColumn": 72,
-                        "endOffset": 12249
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 158,
-                    "startColumn": 4,
-                    "startOffset": 16602,
-                    "endColumn": 78,
-                    "endOffset": 16676
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 89,
-                        "startColumn": 4,
-                        "startOffset": 11700,
-                        "endColumn": 78,
-                        "endOffset": 11774
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 159,
-                    "startColumn": 4,
-                    "startOffset": 16681,
-                    "endColumn": 96,
-                    "endOffset": 16773
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 96,
-                        "startColumn": 4,
-                        "startOffset": 12254,
-                        "endColumn": 96,
-                        "endOffset": 12346
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 160,
-                    "startColumn": 4,
-                    "startOffset": 16778,
-                    "endColumn": 70,
-                    "endOffset": 16844
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 113,
-                        "startColumn": 4,
-                        "startOffset": 13542,
-                        "endColumn": 70,
-                        "endOffset": 13608
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 161,
-                    "startColumn": 4,
-                    "startOffset": 16849,
-                    "endColumn": 340,
-                    "endOffset": 17185
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 78,
-                        "startColumn": 4,
-                        "startOffset": 10727,
-                        "endColumn": 340,
-                        "endOffset": 11063
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 162,
-                    "startColumn": 4,
-                    "startOffset": 17190,
-                    "endColumn": 371,
-                    "endOffset": 17557
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 76,
-                        "startColumn": 4,
-                        "startOffset": 9864,
-                        "endColumn": 371,
-                        "endOffset": 10231
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 163,
-                    "startColumn": 4,
-                    "startOffset": 17562,
-                    "endColumn": 490,
-                    "endOffset": 18048
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 77,
-                        "startColumn": 4,
-                        "startOffset": 10236,
-                        "endColumn": 490,
-                        "endOffset": 10722
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 164,
-                    "startColumn": 4,
-                    "startOffset": 18053,
-                    "endColumn": 361,
-                    "endOffset": 18410
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 75,
-                        "startColumn": 4,
-                        "startOffset": 9502,
-                        "endColumn": 361,
-                        "endOffset": 9859
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 165,
-                    "startColumn": 4,
-                    "startOffset": 18415,
-                    "endColumn": 1374,
-                    "endOffset": 19785
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 324,
-                        "endColumn": 1374,
-                        "endOffset": 1694
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 166,
-                    "startColumn": 4,
-                    "startOffset": 19790,
-                    "endColumn": 72,
-                    "endOffset": 19858
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 110,
-                        "startColumn": 4,
-                        "startOffset": 13357,
-                        "endColumn": 72,
-                        "endOffset": 13425
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 167,
-                    "startColumn": 4,
-                    "startOffset": 19863,
-                    "endColumn": 1294,
-                    "endOffset": 21153
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 1699,
-                        "endColumn": 1294,
-                        "endOffset": 2989
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 168,
-                    "startColumn": 4,
-                    "startOffset": 21158,
-                    "endColumn": 84,
-                    "endOffset": 21238
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 176,
-                        "endColumn": 84,
-                        "endOffset": 256
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 169,
-                    "startColumn": 4,
-                    "startOffset": 21243,
-                    "endColumn": 63,
-                    "endOffset": 21302
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 112,
-                        "endColumn": 63,
-                        "endOffset": 171
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 170,
-                    "startColumn": 4,
-                    "startOffset": 21307,
-                    "endColumn": 109,
-                    "endOffset": 21412
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 101,
-                        "startColumn": 4,
-                        "startOffset": 12725,
-                        "endColumn": 109,
-                        "endOffset": 12830
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 171,
-                    "startColumn": 4,
-                    "startOffset": 21417,
-                    "endColumn": 124,
-                    "endOffset": 21537
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 102,
-                        "startColumn": 4,
-                        "startOffset": 12835,
-                        "endColumn": 124,
-                        "endOffset": 12955
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 172,
-                    "startColumn": 4,
-                    "startOffset": 21542,
-                    "endColumn": 66,
-                    "endOffset": 21604
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 114,
-                        "startColumn": 4,
-                        "startOffset": 13613,
-                        "endColumn": 66,
-                        "endOffset": 13675
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 173,
-                    "startColumn": 4,
-                    "startOffset": 21609,
-                    "endColumn": 74,
-                    "endOffset": 21679
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 2994,
-                        "endColumn": 74,
-                        "endOffset": 3064
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 174,
-                    "startColumn": 4,
-                    "startOffset": 21684,
-                    "endColumn": 62,
-                    "endOffset": 21742
-                },
-                "from": {
-                    "file": "/home/eric/AndroidStudioProjects/NA/app/src/main/res/values-pt/strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 261,
-                        "endColumn": 62,
-                        "endOffset": 319
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
         "map": [
             {
@@ -3463,9 +1138,9 @@
                     "position": {
                         "startLine": 106,
                         "startColumn": 4,
-                        "startOffset": 13128,
+                        "startOffset": 13127,
                         "endColumn": 57,
-                        "endOffset": 13181
+                        "endOffset": 13180
                     }
                 }
             },
@@ -3482,9 +1157,9 @@
                     "position": {
                         "startLine": 105,
                         "startColumn": 4,
-                        "startOffset": 13074,
+                        "startOffset": 13073,
                         "endColumn": 53,
-                        "endOffset": 13123
+                        "endOffset": 13122
                     }
                 }
             },
@@ -3501,9 +1176,9 @@
                     "position": {
                         "startLine": 107,
                         "startColumn": 4,
-                        "startOffset": 13186,
+                        "startOffset": 13185,
                         "endColumn": 58,
-                        "endOffset": 13240
+                        "endOffset": 13239
                     }
                 }
             },
@@ -3520,9 +1195,9 @@
                     "position": {
                         "startLine": 112,
                         "startColumn": 4,
-                        "startOffset": 13487,
+                        "startOffset": 13486,
                         "endColumn": 54,
-                        "endOffset": 13537
+                        "endOffset": 13536
                     }
                 }
             },
@@ -3539,9 +1214,9 @@
                     "position": {
                         "startLine": 104,
                         "startColumn": 4,
-                        "startOffset": 13015,
+                        "startOffset": 13014,
                         "endColumn": 58,
-                        "endOffset": 13069
+                        "endOffset": 13068
                     }
                 }
             },
@@ -3558,9 +1233,9 @@
                     "position": {
                         "startLine": 108,
                         "startColumn": 4,
-                        "startOffset": 13245,
+                        "startOffset": 13244,
                         "endColumn": 54,
-                        "endOffset": 13295
+                        "endOffset": 13294
                     }
                 }
             },
@@ -3577,9 +1252,9 @@
                     "position": {
                         "startLine": 109,
                         "startColumn": 4,
-                        "startOffset": 13300,
+                        "startOffset": 13299,
                         "endColumn": 56,
-                        "endOffset": 13352
+                        "endOffset": 13351
                     }
                 }
             },
@@ -3596,9 +1271,9 @@
                     "position": {
                         "startLine": 103,
                         "startColumn": 4,
-                        "startOffset": 12960,
+                        "startOffset": 12959,
                         "endColumn": 54,
-                        "endOffset": 13010
+                        "endOffset": 13009
                     }
                 }
             },
@@ -3615,9 +1290,9 @@
                     "position": {
                         "startLine": 111,
                         "startColumn": 4,
-                        "startOffset": 13430,
+                        "startOffset": 13429,
                         "endColumn": 56,
-                        "endOffset": 13482
+                        "endOffset": 13481
                     }
                 }
             },
@@ -3634,9 +1309,9 @@
                     "position": {
                         "startLine": 83,
                         "startColumn": 4,
-                        "startOffset": 11306,
+                        "startOffset": 11305,
                         "endColumn": 70,
-                        "endOffset": 11372
+                        "endOffset": 11371
                     }
                 }
             },
@@ -3653,9 +1328,9 @@
                     "position": {
                         "startLine": 117,
                         "startColumn": 4,
-                        "startOffset": 13819,
+                        "startOffset": 13818,
                         "endColumn": 90,
-                        "endOffset": 13905
+                        "endOffset": 13904
                     }
                 }
             },
@@ -3748,9 +1423,9 @@
                     "position": {
                         "startLine": 116,
                         "startColumn": 4,
-                        "startOffset": 13741,
+                        "startOffset": 13740,
                         "endColumn": 77,
-                        "endOffset": 13814
+                        "endOffset": 13813
                     }
                 }
             },
@@ -3767,9 +1442,9 @@
                     "position": {
                         "startLine": 115,
                         "startColumn": 4,
-                        "startOffset": 13680,
+                        "startOffset": 13679,
                         "endColumn": 60,
-                        "endOffset": 13736
+                        "endOffset": 13735
                     }
                 }
             },
@@ -3957,9 +1632,9 @@
                     "position": {
                         "startLine": 80,
                         "startColumn": 4,
-                        "startOffset": 11122,
+                        "startOffset": 11121,
                         "endColumn": 63,
-                        "endOffset": 11181
+                        "endOffset": 11180
                     }
                 }
             },
@@ -3976,9 +1651,9 @@
                     "position": {
                         "startLine": 84,
                         "startColumn": 4,
-                        "startOffset": 11377,
+                        "startOffset": 11376,
                         "endColumn": 56,
-                        "endOffset": 11429
+                        "endOffset": 11428
                     }
                 }
             },
@@ -3995,9 +1670,9 @@
                     "position": {
                         "startLine": 81,
                         "startColumn": 4,
-                        "startOffset": 11186,
+                        "startOffset": 11185,
                         "endColumn": 53,
-                        "endOffset": 11235
+                        "endOffset": 11234
                     }
                 }
             },
@@ -4006,8 +1681,8 @@
                     "startLine": 141,
                     "startColumn": 4,
                     "startOffset": 15309,
-                    "endColumn": 57,
-                    "endOffset": 15362
+                    "endColumn": 56,
+                    "endOffset": 15361
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
@@ -4015,8 +1690,8 @@
                         "startLine": 74,
                         "startColumn": 4,
                         "startOffset": 9444,
-                        "endColumn": 57,
-                        "endOffset": 9497
+                        "endColumn": 56,
+                        "endOffset": 9496
                     }
                 }
             },
@@ -4024,18 +1699,18 @@
                 "to": {
                     "startLine": 142,
                     "startColumn": 4,
-                    "startOffset": 15367,
+                    "startOffset": 15366,
                     "endColumn": 53,
-                    "endOffset": 15416
+                    "endOffset": 15415
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 4,
-                        "startOffset": 11068,
+                        "startOffset": 11067,
                         "endColumn": 53,
-                        "endOffset": 11117
+                        "endOffset": 11116
                     }
                 }
             },
@@ -4043,18 +1718,18 @@
                 "to": {
                     "startLine": 143,
                     "startColumn": 4,
-                    "startOffset": 15421,
+                    "startOffset": 15420,
                     "endColumn": 80,
-                    "endOffset": 15497
+                    "endOffset": 15496
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 92,
                         "startColumn": 4,
-                        "startOffset": 11926,
+                        "startOffset": 11925,
                         "endColumn": 80,
-                        "endOffset": 12002
+                        "endOffset": 12001
                     }
                 }
             },
@@ -4062,18 +1737,18 @@
                 "to": {
                     "startLine": 144,
                     "startColumn": 4,
-                    "startOffset": 15502,
+                    "startOffset": 15501,
                     "endColumn": 65,
-                    "endOffset": 15563
+                    "endOffset": 15562
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 82,
                         "startColumn": 4,
-                        "startOffset": 11240,
+                        "startOffset": 11239,
                         "endColumn": 65,
-                        "endOffset": 11301
+                        "endOffset": 11300
                     }
                 }
             },
@@ -4081,18 +1756,18 @@
                 "to": {
                     "startLine": 145,
                     "startColumn": 4,
-                    "startOffset": 15568,
+                    "startOffset": 15567,
                     "endColumn": 82,
-                    "endOffset": 15646
+                    "endOffset": 15645
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 94,
                         "startColumn": 4,
-                        "startOffset": 12098,
+                        "startOffset": 12097,
                         "endColumn": 82,
-                        "endOffset": 12176
+                        "endOffset": 12175
                     }
                 }
             },
@@ -4100,18 +1775,18 @@
                 "to": {
                     "startLine": 146,
                     "startColumn": 4,
-                    "startOffset": 15651,
+                    "startOffset": 15650,
                     "endColumn": 58,
-                    "endOffset": 15705
+                    "endOffset": 15704
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 99,
                         "startColumn": 4,
-                        "startOffset": 12557,
+                        "startOffset": 12556,
                         "endColumn": 58,
-                        "endOffset": 12611
+                        "endOffset": 12610
                     }
                 }
             },
@@ -4119,18 +1794,18 @@
                 "to": {
                     "startLine": 147,
                     "startColumn": 4,
-                    "startOffset": 15710,
+                    "startOffset": 15709,
                     "endColumn": 60,
-                    "endOffset": 15766
+                    "endOffset": 15765
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 86,
                         "startColumn": 4,
-                        "startOffset": 11494,
+                        "startOffset": 11493,
                         "endColumn": 60,
-                        "endOffset": 11550
+                        "endOffset": 11549
                     }
                 }
             },
@@ -4138,18 +1813,18 @@
                 "to": {
                     "startLine": 148,
                     "startColumn": 4,
-                    "startOffset": 15771,
+                    "startOffset": 15770,
                     "endColumn": 75,
-                    "endOffset": 15842
+                    "endOffset": 15841
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 90,
                         "startColumn": 4,
-                        "startOffset": 11779,
+                        "startOffset": 11778,
                         "endColumn": 75,
-                        "endOffset": 11850
+                        "endOffset": 11849
                     }
                 }
             },
@@ -4157,18 +1832,18 @@
                 "to": {
                     "startLine": 149,
                     "startColumn": 4,
-                    "startOffset": 15847,
+                    "startOffset": 15846,
                     "endColumn": 108,
-                    "endOffset": 15951
+                    "endOffset": 15950
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 100,
                         "startColumn": 4,
-                        "startOffset": 12616,
+                        "startOffset": 12615,
                         "endColumn": 108,
-                        "endOffset": 12720
+                        "endOffset": 12719
                     }
                 }
             },
@@ -4176,18 +1851,18 @@
                 "to": {
                     "startLine": 150,
                     "startColumn": 4,
-                    "startOffset": 15956,
+                    "startOffset": 15955,
                     "endColumn": 70,
-                    "endOffset": 16022
+                    "endOffset": 16021
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 91,
                         "startColumn": 4,
-                        "startOffset": 11855,
+                        "startOffset": 11854,
                         "endColumn": 70,
-                        "endOffset": 11921
+                        "endOffset": 11920
                     }
                 }
             },
@@ -4195,18 +1870,18 @@
                 "to": {
                     "startLine": 151,
                     "startColumn": 4,
-                    "startOffset": 16027,
+                    "startOffset": 16026,
                     "endColumn": 84,
-                    "endOffset": 16107
+                    "endOffset": 16106
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 98,
                         "startColumn": 4,
-                        "startOffset": 12472,
+                        "startOffset": 12471,
                         "endColumn": 84,
-                        "endOffset": 12552
+                        "endOffset": 12551
                     }
                 }
             },
@@ -4214,18 +1889,18 @@
                 "to": {
                     "startLine": 152,
                     "startColumn": 4,
-                    "startOffset": 16112,
+                    "startOffset": 16111,
                     "endColumn": 120,
-                    "endOffset": 16228
+                    "endOffset": 16227
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 97,
                         "startColumn": 4,
-                        "startOffset": 12351,
+                        "startOffset": 12350,
                         "endColumn": 120,
-                        "endOffset": 12467
+                        "endOffset": 12466
                     }
                 }
             },
@@ -4233,18 +1908,18 @@
                 "to": {
                     "startLine": 153,
                     "startColumn": 4,
-                    "startOffset": 16233,
+                    "startOffset": 16232,
                     "endColumn": 80,
-                    "endOffset": 16309
+                    "endOffset": 16308
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 88,
                         "startColumn": 4,
-                        "startOffset": 11619,
+                        "startOffset": 11618,
                         "endColumn": 80,
-                        "endOffset": 11695
+                        "endOffset": 11694
                     }
                 }
             },
@@ -4252,18 +1927,18 @@
                 "to": {
                     "startLine": 154,
                     "startColumn": 4,
-                    "startOffset": 16314,
+                    "startOffset": 16313,
                     "endColumn": 90,
-                    "endOffset": 16400
+                    "endOffset": 16399
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 93,
                         "startColumn": 4,
-                        "startOffset": 12007,
+                        "startOffset": 12006,
                         "endColumn": 90,
-                        "endOffset": 12093
+                        "endOffset": 12092
                     }
                 }
             },
@@ -4271,18 +1946,18 @@
                 "to": {
                     "startLine": 155,
                     "startColumn": 4,
-                    "startOffset": 16405,
+                    "startOffset": 16404,
                     "endColumn": 63,
-                    "endOffset": 16464
+                    "endOffset": 16463
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 87,
                         "startColumn": 4,
-                        "startOffset": 11555,
+                        "startOffset": 11554,
                         "endColumn": 63,
-                        "endOffset": 11614
+                        "endOffset": 11613
                     }
                 }
             },
@@ -4290,18 +1965,18 @@
                 "to": {
                     "startLine": 156,
                     "startColumn": 4,
-                    "startOffset": 16469,
+                    "startOffset": 16468,
                     "endColumn": 59,
-                    "endOffset": 16524
+                    "endOffset": 16523
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 85,
                         "startColumn": 4,
-                        "startOffset": 11434,
+                        "startOffset": 11433,
                         "endColumn": 59,
-                        "endOffset": 11489
+                        "endOffset": 11488
                     }
                 }
             },
@@ -4309,18 +1984,18 @@
                 "to": {
                     "startLine": 157,
                     "startColumn": 4,
-                    "startOffset": 16529,
+                    "startOffset": 16528,
                     "endColumn": 72,
-                    "endOffset": 16597
+                    "endOffset": 16596
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 95,
                         "startColumn": 4,
-                        "startOffset": 12181,
+                        "startOffset": 12180,
                         "endColumn": 72,
-                        "endOffset": 12249
+                        "endOffset": 12248
                     }
                 }
             },
@@ -4328,18 +2003,18 @@
                 "to": {
                     "startLine": 158,
                     "startColumn": 4,
-                    "startOffset": 16602,
+                    "startOffset": 16601,
                     "endColumn": 78,
-                    "endOffset": 16676
+                    "endOffset": 16675
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 89,
                         "startColumn": 4,
-                        "startOffset": 11700,
+                        "startOffset": 11699,
                         "endColumn": 78,
-                        "endOffset": 11774
+                        "endOffset": 11773
                     }
                 }
             },
@@ -4347,18 +2022,18 @@
                 "to": {
                     "startLine": 159,
                     "startColumn": 4,
-                    "startOffset": 16681,
+                    "startOffset": 16680,
                     "endColumn": 96,
-                    "endOffset": 16773
+                    "endOffset": 16772
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 96,
                         "startColumn": 4,
-                        "startOffset": 12254,
+                        "startOffset": 12253,
                         "endColumn": 96,
-                        "endOffset": 12346
+                        "endOffset": 12345
                     }
                 }
             },
@@ -4366,18 +2041,18 @@
                 "to": {
                     "startLine": 160,
                     "startColumn": 4,
-                    "startOffset": 16778,
+                    "startOffset": 16777,
                     "endColumn": 70,
-                    "endOffset": 16844
+                    "endOffset": 16843
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 113,
                         "startColumn": 4,
-                        "startOffset": 13542,
+                        "startOffset": 13541,
                         "endColumn": 70,
-                        "endOffset": 13608
+                        "endOffset": 13607
                     }
                 }
             },
@@ -4385,18 +2060,18 @@
                 "to": {
                     "startLine": 161,
                     "startColumn": 4,
-                    "startOffset": 16849,
+                    "startOffset": 16848,
                     "endColumn": 340,
-                    "endOffset": 17185
+                    "endOffset": 17184
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 4,
-                        "startOffset": 10727,
+                        "startOffset": 10726,
                         "endColumn": 340,
-                        "endOffset": 11063
+                        "endOffset": 11062
                     }
                 }
             },
@@ -4404,18 +2079,18 @@
                 "to": {
                     "startLine": 162,
                     "startColumn": 4,
-                    "startOffset": 17190,
+                    "startOffset": 17189,
                     "endColumn": 371,
-                    "endOffset": 17557
+                    "endOffset": 17556
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 76,
                         "startColumn": 4,
-                        "startOffset": 9864,
+                        "startOffset": 9863,
                         "endColumn": 371,
-                        "endOffset": 10231
+                        "endOffset": 10230
                     }
                 }
             },
@@ -4423,18 +2098,18 @@
                 "to": {
                     "startLine": 163,
                     "startColumn": 4,
-                    "startOffset": 17562,
+                    "startOffset": 17561,
                     "endColumn": 490,
-                    "endOffset": 18048
+                    "endOffset": 18047
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 4,
-                        "startOffset": 10236,
+                        "startOffset": 10235,
                         "endColumn": 490,
-                        "endOffset": 10722
+                        "endOffset": 10721
                     }
                 }
             },
@@ -4442,18 +2117,18 @@
                 "to": {
                     "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 18053,
+                    "startOffset": 18052,
                     "endColumn": 361,
-                    "endOffset": 18410
+                    "endOffset": 18409
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 4,
-                        "startOffset": 9502,
+                        "startOffset": 9501,
                         "endColumn": 361,
-                        "endOffset": 9859
+                        "endOffset": 9858
                     }
                 }
             },
@@ -4461,9 +2136,9 @@
                 "to": {
                     "startLine": 165,
                     "startColumn": 4,
-                    "startOffset": 18415,
+                    "startOffset": 18414,
                     "endColumn": 1374,
-                    "endOffset": 19785
+                    "endOffset": 19784
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
@@ -4480,18 +2155,18 @@
                 "to": {
                     "startLine": 166,
                     "startColumn": 4,
-                    "startOffset": 19790,
+                    "startOffset": 19789,
                     "endColumn": 72,
-                    "endOffset": 19858
+                    "endOffset": 19857
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 110,
                         "startColumn": 4,
-                        "startOffset": 13357,
+                        "startOffset": 13356,
                         "endColumn": 72,
-                        "endOffset": 13425
+                        "endOffset": 13424
                     }
                 }
             },
@@ -4499,9 +2174,9 @@
                 "to": {
                     "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 19863,
+                    "startOffset": 19862,
                     "endColumn": 1294,
-                    "endOffset": 21153
+                    "endOffset": 21152
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
@@ -4518,9 +2193,9 @@
                 "to": {
                     "startLine": 168,
                     "startColumn": 4,
-                    "startOffset": 21158,
+                    "startOffset": 21157,
                     "endColumn": 84,
-                    "endOffset": 21238
+                    "endOffset": 21237
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
@@ -4537,9 +2212,9 @@
                 "to": {
                     "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 21243,
+                    "startOffset": 21242,
                     "endColumn": 63,
-                    "endOffset": 21302
+                    "endOffset": 21301
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
@@ -4556,18 +2231,18 @@
                 "to": {
                     "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 21307,
+                    "startOffset": 21306,
                     "endColumn": 109,
-                    "endOffset": 21412
+                    "endOffset": 21411
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 101,
                         "startColumn": 4,
-                        "startOffset": 12725,
+                        "startOffset": 12724,
                         "endColumn": 109,
-                        "endOffset": 12830
+                        "endOffset": 12829
                     }
                 }
             },
@@ -4575,18 +2250,18 @@
                 "to": {
                     "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 21417,
+                    "startOffset": 21416,
                     "endColumn": 124,
-                    "endOffset": 21537
+                    "endOffset": 21536
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 102,
                         "startColumn": 4,
-                        "startOffset": 12835,
+                        "startOffset": 12834,
                         "endColumn": 124,
-                        "endOffset": 12955
+                        "endOffset": 12954
                     }
                 }
             },
@@ -4594,18 +2269,18 @@
                 "to": {
                     "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 21542,
+                    "startOffset": 21541,
                     "endColumn": 66,
-                    "endOffset": 21604
+                    "endOffset": 21603
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
                     "position": {
                         "startLine": 114,
                         "startColumn": 4,
-                        "startOffset": 13613,
+                        "startOffset": 13612,
                         "endColumn": 66,
-                        "endOffset": 13675
+                        "endOffset": 13674
                     }
                 }
             },
@@ -4613,9 +2288,9 @@
                 "to": {
                     "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 21609,
+                    "startOffset": 21608,
                     "endColumn": 74,
-                    "endOffset": 21679
+                    "endOffset": 21678
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
@@ -4632,9 +2307,9 @@
                 "to": {
                     "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 21684,
+                    "startOffset": 21683,
                     "endColumn": 62,
-                    "endOffset": 21742
+                    "endOffset": 21741
                 },
                 "from": {
                     "file": "/Users/eric/developer/workspace/AndroidStudioProjects/na/app/src/main/res/values-pt/strings.xml",
